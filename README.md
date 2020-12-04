@@ -19,21 +19,31 @@ Collecting papers about new view synthesis
 
 8. NeRF++: Analyzing and Improving Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2010.07492.pdf) | [[code]](https://github.com/Kai-46/nerfplusplus?utm_source=catalyzex.com)
 
-9. Neural Volumes: Learning Dynamic Renderable Volumes from Images [[arxiv]](https://arxiv.org/pdf/1906.07751.pdf) | [[code]](https://github.com/facebookresearch/neuralvolumes?utm_source=catalyzex.com)
 
-10. Extreme View Synthesis [[arxiv]](https://arxiv.org/pdf/1812.04777.pdf) | [[code]](https://github.com/NVlabs/extreme-view-synth?utm_source=catalyzex.com)
+9. Extreme View Synthesis [[arxiv]](https://arxiv.org/pdf/1812.04777.pdf) | [[code]](https://github.com/NVlabs/extreme-view-synth?utm_source=catalyzex.com)
 
-11. Generative View Synthesis: From Single-view Semantics to Novel-view Images [[arxiv]](https://arxiv.org/pdf/2008.09106.pdf) | [[code]](https://gvsnet.github.io/?utm_source=catalyzex.com)
+10. Generative View Synthesis: From Single-view Semantics to Novel-view Images [[arxiv]](https://arxiv.org/pdf/2008.09106.pdf) | [[code]](https://gvsnet.github.io/?utm_source=catalyzex.com)
 
-12. Semantic view synthesis [[arxiv]](https://arxiv.org/pdf/2008.10598.pdf) | [[code]](https://hhsinping.github.io/svs/index.html?utm_source=catalyzex.com)
+11. Semantic view synthesis [[arxiv]](https://arxiv.org/pdf/2008.10598.pdf) | [[code]](https://hhsinping.github.io/svs/index.html?utm_source=catalyzex.com)
 
-13. Single-view view synthesis with multiplane images [[arxiv]](https://single-view-mpi.github.io/single_view_mpi.pdf) | [[code]](https://single-view-mpi.github.io/)
+12. Single-view view synthesis with multiplane images [[arxiv]](https://single-view-mpi.github.io/single_view_mpi.pdf) | [[code]](https://single-view-mpi.github.io/)
 
-14. Neural Sparse Voxel Fields [[arixv]](https://arxiv.org/pdf/2007.11571.pdf) | [[code]](https://github.com/facebookresearch/NSVF)
+13. Neural Sparse Voxel Fields [[arixv]](https://arxiv.org/pdf/2007.11571.pdf) | [[code]](https://github.com/facebookresearch/NSVF)
 
-15. SynSin: End-to-end View Synthesis from a Single Image [[arxiv]](https://arxiv.org/pdf/1912.08804.pdf) | [[code]](https://github.com/facebookresearch/pytorch3d?utm_source=catalyzex.com)
+14. SynSin: End-to-end View Synthesis from a Single Image [[arxiv]](https://arxiv.org/pdf/1912.08804.pdf) | [[code]](https://github.com/facebookresearch/pytorch3d?utm_source=catalyzex.com)
 
-16. Free View Synthesis [[arxiv]](https://arxiv.org/pdf/2008.05511.pdf) | [[code]](https://github.com/intel-isl/FreeViewSynthesis)
+15. Free View Synthesis [[arxiv]](https://arxiv.org/pdf/2008.05511.pdf) | [[code]](https://github.com/intel-isl/FreeViewSynthesis)
 
 
-17. Stable View Synthesis [[arxiv]](https://arxiv.org/pdf/2011.07233.pdf)
+16. Stable View Synthesis [[arxiv]](https://arxiv.org/pdf/2011.07233.pdf)
+
+17. MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images [[arxiv]](https://arxiv.org/pdf/2008.06534.pdf) | [[code]](http://visual.cs.brown.edu/projects/matryodshka-webpage/)
+
+18. Immersive light field video with a layered mesh representation [[pdf]](https://storage.googleapis.com/immersive-lf-video-siggraph2020/ImmersiveLightFieldVideoWithALayeredMeshRepresentation.pdf) | [[project]](https://augmentedperception.github.io/deepviewvideo/)
+
+19. NRMVS: Non-Rigid Multi-View Stereo [[code]](https://arxiv.org/pdf/1901.03910.pdf)
+
+20. Neural Volumes: Learning Dynamic Renderable Volumes from Images [[arxiv]](https://arxiv.org/pdf/1906.07751.pdf) | [[code]](https://github.com/facebookresearch/neuralvolumes?utm_source=catalyzex.com)
+
+20. Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3394171.3413734)
+
