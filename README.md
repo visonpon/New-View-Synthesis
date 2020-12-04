@@ -21,6 +21,8 @@ Collecting papers about new view synthesis
 
 5. 3D Photography using Context-aware Layered Depth Inpainting [[arxiv]](https://arxiv.org/pdf/2004.04727.pdf) | [[code]](https://shihmengli.github.io/3D-Photo-Inpainting/?utm_source=catalyzex.com) | 2020
 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d_photograph.PNG)
+
 6. NeRF: Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2003.08934.pdf) | [[code]](https://github.com/bmild/nerf) | 2020
 
 7. NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[arxiv]](https://arxiv.org/pdf/2008.02268.pdf) | [[code]](https://nerf-w.github.io/?utm_source=catalyzex.com) | 2020 
