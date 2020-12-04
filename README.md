@@ -17,6 +17,8 @@ Collecting papers about new view synthesis
 
 4. 3D Ken Burns Effect from a Single Image [[arxiv]](https://arxiv.org/pdf/1909.05483.pdf) | [[code]](https://github.com/sniklaus/3d-ken-burns) | 2020 
 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-ken.PNG)
+
 5. 3D Photography using Context-aware Layered Depth Inpainting [[arxiv]](https://arxiv.org/pdf/2004.04727.pdf) | [[code]](https://shihmengli.github.io/3D-Photo-Inpainting/?utm_source=catalyzex.com) | 2020
 
 6. NeRF: Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2003.08934.pdf) | [[code]](https://github.com/bmild/nerf) | 2020
