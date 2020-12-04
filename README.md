@@ -13,6 +13,8 @@ Collecting papers about new view synthesis
 
 3. DeepView: View synthesis with learned gradient descent [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf) | [[code]](https://augmentedperception.github.io/deepview/?utm_source=catalyzex.com) | 2019 
 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/DeepView.PNG)
+
 4. 3D Ken Burns Effect from a Single Image [[arxiv]](https://arxiv.org/pdf/1909.05483.pdf) | [[code]](https://github.com/sniklaus/3d-ken-burns) | 2020 
 
 5. NeRF: Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2003.08934.pdf) | [[code]](https://github.com/bmild/nerf) | 2020
