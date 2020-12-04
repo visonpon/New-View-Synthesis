@@ -1,7 +1,7 @@
 # New-View-Synthesis
 Collecting papers about new view synthesis
 
-:bowtie::star::fire::muscle: I will unpdate dately and add more details about every paper:sunny::sunny::sunny:
+:bowtie::star::fire::muscle: I will unpdate dately and add more details about every paper :sunny::sunny::sunny:
 
 1. Stereo Magnification: Learning View Synthesis using Multiplane Images [[arxiv]](https://arxiv.org/pdf/1805.09817.pdf) | [[code]](https://github.com/google/stereo-magnification?utm_source=catalyzex.com)
 
