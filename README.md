@@ -4,26 +4,22 @@ Collecting papers about new view synthesis
 :bowtie::star::fire::muscle: I will update dately and add more details about every paper :sunny::sunny::sunny:
 
 1. Stereo Magnification: Learning View Synthesis using Multiplane Images [[arxiv]](https://arxiv.org/pdf/1805.09817.pdf) | [[code]](https://github.com/google/stereo-magnification?utm_source=catalyzex.com) | 2018 
-
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/stereo_magification.PNG)
 
 2. Local Light Field Fusion [[arxiv]](https://arxiv.org/pdf/1905.00889.pdf) | [[code]](https://github.com/Fyusion/LLFF?utm_source=catalyzex.com) | 2019
-
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/LLFF.PNG)
 
 3. DeepView: View synthesis with learned gradient descent [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf) | [[code]](https://augmentedperception.github.io/deepview/?utm_source=catalyzex.com) | 2019 
-
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/DeepView.PNG)
 
 4. 3D Ken Burns Effect from a Single Image [[arxiv]](https://arxiv.org/pdf/1909.05483.pdf) | [[code]](https://github.com/sniklaus/3d-ken-burns) | 2020 
-
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-ken.PNG)
 
 5. 3D Photography using Context-aware Layered Depth Inpainting [[arxiv]](https://arxiv.org/pdf/2004.04727.pdf) | [[code]](https://shihmengli.github.io/3D-Photo-Inpainting/?utm_source=catalyzex.com) | 2020
-
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d_photograph.PNG)
 
 6. NeRF: Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2003.08934.pdf) | [[code]](https://github.com/bmild/nerf) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerf.PNG)
 
 7. NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[arxiv]](https://arxiv.org/pdf/2008.02268.pdf) | [[code]](https://nerf-w.github.io/?utm_source=catalyzex.com) | 2020 
 
