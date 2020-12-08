@@ -72,3 +72,5 @@ Collecting papers about new view synthesis
 31. Space-time Neural Irradiance Fields for Free-Viewpoint Video [[arxiv]](https://arxiv.org/pdf/2011.12950.pdf) | [[code]](https://video-nerf.github.io/) | 2020
 
 32. NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[project]](https://people.eecs.berkeley.edu/~pratul/nerv/)
+
+33. Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[project]](https://gafniguy.github.io/4D-Facial-Avatars/)
