@@ -74,3 +74,7 @@ Collecting papers about new view synthesis
 32. NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[project]](https://people.eecs.berkeley.edu/~pratul/nerv/)
 
 33. Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[project]](https://gafniguy.github.io/4D-Facial-Avatars/)
+
+34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)
+
+35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/)
