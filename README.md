@@ -78,3 +78,5 @@ Collecting papers about new view synthesis
 34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)
 
 35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/)
+
+36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/)
