@@ -63,7 +63,7 @@ Collecting papers about new view synthesis
 
 27. Monocular Real-Time Volumetric Performance Capture [[pdf]](https://arxiv.org/pdf/2007.13988.pdf) |  [[code]](https://github.com/Project-Splinter/MonoPort?utm_source=catalyzex.com) | 2020 
 
-28. pixelNeRF : Neural Radiance Fields from One or Few Images [[https://arxiv.org/pdf/2012.02190.pdf]] | [[code]](https://alexyu.net/pixelnerf/) | 2020
+28. pixelNeRF : Neural Radiance Fields from One or Few Images [[pdf]](https://arxiv.org/pdf/2012.02190.pdf) | [[code]](https://alexyu.net/pixelnerf/) | 2020
 
 29. Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera [[arxiv]](https://arxiv.org/pdf/2004.01294.pdf) | 2020
 
@@ -71,12 +71,12 @@ Collecting papers about new view synthesis
 
 31. Space-time Neural Irradiance Fields for Free-Viewpoint Video [[arxiv]](https://arxiv.org/pdf/2011.12950.pdf) | [[code]](https://video-nerf.github.io/) | 2020
 
-32. NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[project]](https://people.eecs.berkeley.edu/~pratul/nerv/)
+32. NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[project]](https://people.eecs.berkeley.edu/~pratul/nerv/) | 2020
 
-33. Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[project]](https://gafniguy.github.io/4D-Facial-Avatars/)
+33. Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[project]](https://gafniguy.github.io/4D-Facial-Avatars/) | 2020
 
-34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)
+34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition) | 2020
 
-35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/)
+35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
 
-36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/)
+36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
