@@ -61,7 +61,7 @@ Collecting papers about new view synthesis
 
 26. Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3394171.3413734) | 2020 
 
-27. Monocular Real-Time Volumetric Performance Capture [[code]](https://arxiv.org/pdf/2007.13988.pdf) |  [[code]](https://github.com/Project-Splinter/MonoPort?utm_source=catalyzex.com) | 2020 
+27. Monocular Real-Time Volumetric Performance Capture [[pdf]](https://arxiv.org/pdf/2007.13988.pdf) |  [[code]](https://github.com/Project-Splinter/MonoPort?utm_source=catalyzex.com) | 2020 
 
 28. pixelNeRF : Neural Radiance Fields from One or Few Images [[https://arxiv.org/pdf/2012.02190.pdf]] | [[code]](https://alexyu.net/pixelnerf/) | 2020
 
