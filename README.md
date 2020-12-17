@@ -25,6 +25,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerf_W.PNG)
 
 8. GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering [[arxiv]](https://arxiv.org/pdf/2010.04595.pdf) | [[code]](https://github.com/alextrevithick/GRF)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/GRF.PNG)
 
 9. DeRF: Decomposed Radiance Fields [[arxiv]](https://arxiv.org/pdf/2011.12490.pdf) | 2020 
 
