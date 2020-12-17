@@ -76,12 +76,13 @@ Collecting papers about new view synthesis
 32. NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[project]](https://people.eecs.berkeley.edu/~pratul/nerv/) | 2020
 
 33. Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[project]](https://gafniguy.github.io/4D-Facial-Avatars/) | 2020
-
-34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition) | 2020
-
-35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/4d%20avatar.PNG)
     - use 3DMM to get the facical expression
     - encode the input image sqquences to get latent code 
     - like nerf's MLP, also use facial expressing and latent code as input for the Radiance Fields Network
+
+34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition) | 2020
+
+35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
+
 36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
