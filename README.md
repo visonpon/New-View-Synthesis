@@ -79,7 +79,7 @@ Collecting papers about new view synthesis
 
 35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/4d%20avatar.PNG)
-    1. use 3DMM to get the facical expression
-    2. encode the input image sqquences to get latent code 
-    3. like nerf's MLP, also use facial expressing and latent code as input for the Radiance Fields Network
+    - use 3DMM to get the facical expression
+    - encode the input image sqquences to get latent code 
+    - like nerf's MLP, also use facial expressing and latent code as input for the Radiance Fields Network
 36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
