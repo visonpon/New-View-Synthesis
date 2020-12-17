@@ -22,6 +22,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerf.PNG)
 
 7. NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[arxiv]](https://arxiv.org/pdf/2008.02268.pdf) | [[code]](https://nerf-w.github.io/?utm_source=catalyzex.com) | 2020 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerf_W.PNG)
 
 8. GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering [[arxiv]](https://arxiv.org/pdf/2010.04595.pdf) | [[code]](https://github.com/alextrevithick/GRF)
 
