@@ -86,3 +86,5 @@ Collecting papers about new view synthesis
 35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
 
 36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
+
+37. Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image [[project]](https://worldsheet.github.io/) | 2020
