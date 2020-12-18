@@ -88,3 +88,5 @@ Collecting papers about new view synthesis
 36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
 
 37. Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image [[project]](https://worldsheet.github.io/) | 2020
+
+38. Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [[arxiv]](https://arxiv.org/pdf/2012.09855.pdf) | [[video]](https://www.youtube.com/watch?v=oXUf6anNAtc)
