@@ -96,3 +96,5 @@ Collecting papers about new view synthesis
 40. Learning Compositional Radiance Fields of Dynamic Human Heads [[pdf]](https://arxiv.org/pdf/2012.09955.pdf) | [[project]](https://ziyanw1.github.io/hybrid_nerf/) | 2020
 
 41. Relightable 3D Head Portraits from a Smartphone Video [[pdf]](https://arxiv.org/pdf/2012.09963.pdf)
+
+42. Learning to Recover 3D Scene Shape from a Single Image [[project]](https://yvanyin.github.io/LearnShape.github.io/)
