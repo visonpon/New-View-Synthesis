@@ -92,3 +92,5 @@ Collecting papers about new view synthesis
 38. Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [[arxiv]](https://arxiv.org/pdf/2012.09855.pdf) | [[video]](https://www.youtube.com/watch?v=oXUf6anNAtc) | 2020
 
 39. Neural Radiance Flow for 4D View Synthesis and Video Processing [[project]](https://yilundu.github.io/nerflow/) | 2020
+
+40. Learning Compositional Radiance Fields of Dynamic Human Heads [[pdf]](https://arxiv.org/pdf/2012.09955.pdf) | [[project]](https://ziyanw1.github.io/hybrid_nerf/) | 2020
