@@ -100,3 +100,5 @@ Collecting papers about new view synthesis
 42. Learning to Recover 3D Scene Shape from a Single Image [[project]](https://yvanyin.github.io/LearnShape.github.io/)
 
 43. Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[project]](https://grail.cs.washington.edu/projects/vid2actor/)
+
+44. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[pdf]](https://arxiv.org/pdf/2012.12247.pdf) 
