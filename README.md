@@ -102,6 +102,6 @@ Collecting papers about new view synthesis
 43. Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[project]](https://grail.cs.washington.edu/projects/vid2actor/) | 2020
 
 44. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[pdf]](https://arxiv.org/pdf/2012.12247.pdf) | 2020 
-
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/no-rigid.JPG)
 45. ANR: Articulated Neural Rendering for Virtual Avatars [[project]](https://anr-avatars.github.io/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ANR.JPG)
