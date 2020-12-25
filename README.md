@@ -104,3 +104,4 @@ Collecting papers about new view synthesis
 44. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[pdf]](https://arxiv.org/pdf/2012.12247.pdf) | 2020 
 
 45. ANR: Articulated Neural Rendering for Virtual Avatars [[project]](https://anr-avatars.github.io/) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ANR.JPG)
