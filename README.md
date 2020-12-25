@@ -98,6 +98,7 @@ Collecting papers about new view synthesis
 41. Relightable 3D Head Portraits from a Smartphone Video [[pdf]](https://arxiv.org/pdf/2012.09963.pdf) | 2020
 
 42. Learning to Recover 3D Scene Shape from a Single Image [[project]](https://yvanyin.github.io/LearnShape.github.io/) | 2020 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/Reconver_scene_from_single_image.JPG)
 
 43. Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[project]](https://grail.cs.washington.edu/projects/vid2actor/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/vid2actor.JPG)
