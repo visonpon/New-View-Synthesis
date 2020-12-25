@@ -110,3 +110,5 @@ Collecting papers about new view synthesis
 
 46. Neural Point-Based Graphics [[pdf]](https://arxiv.org/pdf/1906.08240.pdf) | [[project]](https://saic-violet.github.io/npbg/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_point_basics_graphics.JPG)
+
+47. Equivariant Neural Rendering [[pdf]](https://arxiv.org/pdf/2006.07630.pdf) | [[code]](https://github.com/apple/ml-equivariant-neural-rendering)
