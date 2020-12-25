@@ -95,10 +95,12 @@ Collecting papers about new view synthesis
 
 40. Learning Compositional Radiance Fields of Dynamic Human Heads [[pdf]](https://arxiv.org/pdf/2012.09955.pdf) | [[project]](https://ziyanw1.github.io/hybrid_nerf/) | 2020
 
-41. Relightable 3D Head Portraits from a Smartphone Video [[pdf]](https://arxiv.org/pdf/2012.09963.pdf)
+41. Relightable 3D Head Portraits from a Smartphone Video [[pdf]](https://arxiv.org/pdf/2012.09963.pdf) | 2020
 
-42. Learning to Recover 3D Scene Shape from a Single Image [[project]](https://yvanyin.github.io/LearnShape.github.io/)
+42. Learning to Recover 3D Scene Shape from a Single Image [[project]](https://yvanyin.github.io/LearnShape.github.io/) | 2020 
 
-43. Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[project]](https://grail.cs.washington.edu/projects/vid2actor/)
+43. Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[project]](https://grail.cs.washington.edu/projects/vid2actor/) | 2020
 
-44. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[pdf]](https://arxiv.org/pdf/2012.12247.pdf) 
+44. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[pdf]](https://arxiv.org/pdf/2012.12247.pdf) | 2020 
+
+45. ANR: Articulated Neural Rendering for Virtual Avatars [[project]](https://anr-avatars.github.io/) | 2020
