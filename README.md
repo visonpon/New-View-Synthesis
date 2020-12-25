@@ -107,3 +107,6 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/no-rigid.JPG)
 45. ANR: Articulated Neural Rendering for Virtual Avatars [[project]](https://anr-avatars.github.io/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ANR.JPG)
+
+46. Neural Point-Based Graphics [[pdf]](https://arxiv.org/pdf/1906.08240.pdf) | [[project]](https://saic-violet.github.io/npbg/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_point_basics_graphics.JPG)
