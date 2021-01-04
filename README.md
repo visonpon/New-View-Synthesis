@@ -112,3 +112,5 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_point_basics_graphics.JPG)
 
 47. Equivariant Neural Rendering [[pdf]](https://arxiv.org/pdf/2006.07630.pdf) | [[code]](https://github.com/apple/ml-equivariant-neural-rendering)
+
+48. Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[pdf]](https://arxiv.org/pdf/2012.15838.pdf) | [[project]](https://zju3dv.github.io/neuralbody/)
