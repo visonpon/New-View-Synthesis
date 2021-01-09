@@ -85,6 +85,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NeRD.JPG)
 
 35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerfFACE.JPG)
 
 36. Object-Centric Neural Scene Rendering [[project]](https://shellguo.com/osf/) | 2020
 
