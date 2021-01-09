@@ -82,6 +82,7 @@ Collecting papers about new view synthesis
     - like nerf's MLP, also use facial expressing and latent code as input for the Radiance Fields Network
 
 34. NeRD: Neural Reflectance Decomposition from Image Collections [[code]](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NeRD.JPG)
 
 35. Portrait Neural Radiance Fields from a Single Image [[pdf]](https://arxiv.org/pdf/2012.05903.pdf) | [[project]](https://portrait-nerf.github.io/) | 2020
 
