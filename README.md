@@ -90,6 +90,7 @@ Collecting papers about new view synthesis
 37. Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image [[project]](https://worldsheet.github.io/) | 2020
 
 38. Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [[arxiv]](https://arxiv.org/pdf/2012.09855.pdf) | [[video]](https://www.youtube.com/watch?v=oXUf6anNAtc) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/infinite_nature.JPG)
 
 39. Neural Radiance Flow for 4D View Synthesis and Video Processing [[project]](https://yilundu.github.io/nerflow/) | 2020
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/4d_view_video.JPG)
