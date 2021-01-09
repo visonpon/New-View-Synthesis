@@ -114,6 +114,7 @@ Collecting papers about new view synthesis
 47. Equivariant Neural Rendering [[pdf]](https://arxiv.org/pdf/2006.07630.pdf) | [[code]](https://github.com/apple/ml-equivariant-neural-rendering)
 
 48. Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[pdf]](https://arxiv.org/pdf/2012.15838.pdf) | [[project]](https://zju3dv.github.io/neuralbody/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_body1.JPG)
 
 49. Pixel-aligned Volumetric Avatars [[pdf]](https://volumetric-avatars.github.io/resources/paper.pdf) | [[project]](https://volumetric-avatars.github.io/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/PVA.JPG)
