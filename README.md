@@ -116,3 +116,4 @@ Collecting papers about new view synthesis
 48. Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[pdf]](https://arxiv.org/pdf/2012.15838.pdf) | [[project]](https://zju3dv.github.io/neuralbody/)
 
 49. Pixel-aligned Volumetric Avatars [[pdf]](https://volumetric-avatars.github.io/resources/paper.pdf) | [[project]](https://volumetric-avatars.github.io/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/PVA.JPG)
