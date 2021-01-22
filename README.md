@@ -122,3 +122,5 @@ Collecting papers about new view synthesis
 
 49. Pixel-aligned Volumetric Avatars [[pdf]](https://volumetric-avatars.github.io/resources/paper.pdf) | [[project]](https://volumetric-avatars.github.io/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/PVA.JPG)
+
+50. D-NeRF: Neural Radiance Fields for Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2011.13961.pdf)
