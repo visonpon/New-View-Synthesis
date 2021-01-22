@@ -32,8 +32,9 @@ Collecting papers about new view synthesis
 10. NeRF++: Analyzing and Improving Neural Radiance Fields [[arxiv]](https://arxiv.org/pdf/2010.07492.pdf) | [[code]](https://github.com/Kai-46/nerfplusplus?utm_source=catalyzex.com) | 2020
 
 11. Extreme View Synthesis [[arxiv]](https://arxiv.org/pdf/1812.04777.pdf) | [[code]](https://github.com/NVlabs/extreme-view-synth?utm_source=catalyzex.com) | 2019
-
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/EVS.JPG)
 12. Generative View Synthesis: From Single-view Semantics to Novel-view Images [[arxiv]](https://arxiv.org/pdf/2008.09106.pdf) | [[code]](https://gvsnet.github.io/?utm_source=catalyzex.com) | 2020 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/GVS.JPG)
 
 13. Semantic view synthesis [[arxiv]](https://arxiv.org/pdf/2008.10598.pdf) | [[code]](https://hhsinping.github.io/svs/index.html?utm_source=catalyzex.com) |2020 
 
