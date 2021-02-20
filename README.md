@@ -127,3 +127,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/PVA.JPG)
 
 50. D-NeRF: Neural Radiance Fields for Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2011.13961.pdf)
+51. Shape-conditioned Radiance Fields from a Single View [[pdf]](https://arxiv.org/abs/2102.08860) | [[project]](http://www.krematas.com/sharf/index.html)
