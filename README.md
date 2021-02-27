@@ -129,3 +129,4 @@ Collecting papers about new view synthesis
 50. D-NeRF: Neural Radiance Fields for Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2011.13961.pdf)
 51. Shape-conditioned Radiance Fields from a Single View [[pdf]](https://arxiv.org/abs/2102.08860) | [[project]](http://www.krematas.com/sharf/index.html)
 52. NeRF--: Neural Radiance Fields Without Known Camera Parameters [[pdf]](https://arxiv.org/pdf/2102.07064.pdf) | [[project]](https://nerfmm.active.vision/)
+53. IBRNet: Learning Multi-View Image-Based Rendering [[pdf]](https://arxiv.org/pdf/2102.13090.pdf) | [[project]](https://ibrnet.github.io/)
