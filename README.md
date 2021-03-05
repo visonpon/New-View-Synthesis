@@ -131,3 +131,4 @@ Collecting papers about new view synthesis
 52. NeRF--: Neural Radiance Fields Without Known Camera Parameters [[pdf]](https://arxiv.org/pdf/2102.07064.pdf) | [[project]](https://nerfmm.active.vision/)
 53. IBRNet: Learning Multi-View Image-Based Rendering [[pdf]](https://arxiv.org/pdf/2102.13090.pdf) | [[project]](https://ibrnet.github.io/)
 54. DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks [[https://arxiv.org/pdf/2103.03231.pdf]] | [[project]](https://depthoraclenerf.github.io/)
+55. Neural 3D Video Synthesis [[pdf]](https://arxiv.org/pdf/2103.02597.pdf) | [[project]](https://neural-3d-video.github.io/)
