@@ -136,3 +136,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ibrnet.JPG)
 54. DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks [[pdf]](https://arxiv.org/pdf/2103.03231.pdf) | [[project]](https://depthoraclenerf.github.io/)
 55. Neural 3D Video Synthesis [[pdf]](https://arxiv.org/pdf/2103.02597.pdf) | [[project]](https://neural-3d-video.github.io/)
+56. NeX: Real-time View Synthesis with Neural Basis Expansion [[pdf]](https://arxiv.org/pdf/2103.05606.pdf) | [[project]](https://nex-mpi.github.io/)
