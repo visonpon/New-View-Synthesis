@@ -137,3 +137,5 @@ Collecting papers about new view synthesis
 54. DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks [[pdf]](https://arxiv.org/pdf/2103.03231.pdf) | [[project]](https://depthoraclenerf.github.io/)
 55. Neural 3D Video Synthesis [[pdf]](https://arxiv.org/pdf/2103.02597.pdf) | [[project]](https://neural-3d-video.github.io/)
 56. NeX: Real-time View Synthesis with Neural Basis Expansion [[pdf]](https://arxiv.org/pdf/2103.05606.pdf) | [[project]](https://nex-mpi.github.io/)
+57. A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering [[pdf]](https://arxiv.org/pdf/2102.06199.pdf) | [[project]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/?utm_source=catalyzex.com)
+
