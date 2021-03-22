@@ -139,4 +139,5 @@ Collecting papers about new view synthesis
 56. NeX: Real-time View Synthesis with Neural Basis Expansion [[pdf]](https://arxiv.org/pdf/2103.05606.pdf) | [[project]](https://nex-mpi.github.io/)
 57. A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering [[pdf]](https://arxiv.org/pdf/2102.06199.pdf) | [[project]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/?utm_source=catalyzex.com)
 58. FastNeRF: High-Fidelity Neural Rendering at 200FPS [[pdf]](https://arxiv.org/pdf/2103.10380.pdf)
+![images](https://github.com/visonpon/New-View-Synthesis/blob/main/images/fast_nerf.JPG)
 
