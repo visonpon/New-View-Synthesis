@@ -144,5 +144,7 @@ Collecting papers about new view synthesis
 58. FastNeRF: High-Fidelity Neural Rendering at 200FPS [[pdf]](https://arxiv.org/pdf/2103.10380.pdf)
 ![images](https://github.com/visonpon/New-View-Synthesis/blob/main/images/fast_nerf.JPG)
 59. AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [[pdf]](https://arxiv.org/pdf/2103.11078.pdf)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ad_nerf.JPG)
 60. Neural Lumigraph Rendering [[pdf]](http://www.computationalimaging.org/wp-content/uploads/2021/03/neural_lumigraph_rendering_cvpr2021.pdf) | [[project]](http://www.computationalimaging.org/publications/nlr/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_lumigraph_rendering.JPG)
 
