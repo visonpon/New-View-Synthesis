@@ -147,4 +147,5 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/ad_nerf.JPG)
 60. Neural Lumigraph Rendering [[pdf]](http://www.computationalimaging.org/wp-content/uploads/2021/03/neural_lumigraph_rendering_cvpr2021.pdf) | [[project]](http://www.computationalimaging.org/publications/nlr/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_lumigraph_rendering.JPG)
-
+61. AutoInt: Automatic Integration for Fast Neural Volume Rendering [[pdf]](https://arxiv.org/pdf/2012.01714.pdf)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/auto_int.JPG)
