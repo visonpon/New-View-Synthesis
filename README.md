@@ -149,7 +149,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_lumigraph_rendering.JPG)
 61. AutoInt: Automatic Integration for Fast Neural Volume Rendering [[pdf]](https://arxiv.org/pdf/2012.01714.pdf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/auto_int.JPG)
-62. PlenOctrees for Real-time Rendering of Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2103.14024.pdf)
+62. PlenOctrees for Real-time Rendering of Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2103.14024.pdf) | [[project]](https://alexyu.net/plenoctrees/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/plenoctree.JPG)
 63. KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs [[pdf]](https://arxiv.org/pdf/2103.13744.pdf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/kilonerf.JPG)
