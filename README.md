@@ -157,3 +157,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mip_nerf.JPG)
 65. Baking Neural Radiance Fields for Real-Time View Synthesis [[pdf]](https://phog.github.io/snerg/baking_neural_radiance_fields_for_real_time_view_synthesis.pdf) | [[project]](https://phog.github.io/snerg/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/baking.JPG)
+66. DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[pdf]](https://arxiv.org/pdf/2103.14275.pdf) | [[code]](https://github.com/Tangshengku/DDR-Net)
