@@ -155,3 +155,5 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/kilonerf.JPG)
 64. Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2103.13415.pdf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mip_nerf.JPG)
+65. Baking Neural Radiance Fields for Real-Time View Synthesis [[pdf]](https://phog.github.io/snerg/baking_neural_radiance_fields_for_real_time_view_synthesis.pdf) | [[project]](https://phog.github.io/snerg/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/baking.JPG)
