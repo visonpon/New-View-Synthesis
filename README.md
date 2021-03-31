@@ -160,3 +160,5 @@ Collecting papers about new view synthesis
 66. DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[pdf]](https://arxiv.org/pdf/2103.14275.pdf) | [[code]](https://github.com/Tangshengku/DDR-Net)
 67. MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo [[pdf]](https://arxiv.org/pdf/2103.15595.pdf) | [[project]](https://apchenstu.github.io/mvsnerf/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mvsnerf.JPG)
+68. GNeRF: GAN-based Neural Radiance Field without Posed Camera [[pdf]](https://arxiv.org/pdf/2103.15606.pdf)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/Gnerf.JPG)
