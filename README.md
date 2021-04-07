@@ -164,3 +164,5 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/Gnerf.JPG)
 69. NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video [[project]](https://zju3dv.github.io/neuralrecon/)
 70. Putting NeRF on a Diet: Semantically Consistent Few-Shot View [[pdf]](https://arxiv.org/pdf/2104.00677.pdf) | [[project]](https://www.ajayj.com/dietnerf)
+71. MirrorNeRF: One-shot Neural Portrait Radiance Field from Multi-mirror Catadioptric Imaging [[pdf]](https://arxiv.org/pdf/2104.02607.pdf)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mirror_nerf.JPG)
