@@ -167,3 +167,5 @@ Collecting papers about new view synthesis
 71. Putting NeRF on a Diet: Semantically Consistent Few-Shot View [[pdf]](https://arxiv.org/pdf/2104.00677.pdf) | [[project]](https://www.ajayj.com/dietnerf)
 72. MirrorNeRF: One-shot Neural Portrait Radiance Field from Multi-mirror Catadioptric Imaging [[pdf]](https://arxiv.org/pdf/2104.02607.pdf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mirror_nerf.JPG)
+73. Neural Articulated Radiance Field [[pdf]](https://arxiv.org/pdf/2104.03110.pdf) | [[code]](https://github.com/nogu-atsu/NARF)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NARF.JPG)
