@@ -169,3 +169,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/mirror_nerf.JPG)
 73. Neural Articulated Radiance Field [[pdf]](https://arxiv.org/pdf/2104.03110.pdf) | [[code]](https://github.com/nogu-atsu/NARF)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NARF.JPG)
+74. Pixel Codec Avatars [[pdf]](https://arxiv.org/pdf/2104.04638.pdf)
