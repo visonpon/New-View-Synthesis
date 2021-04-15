@@ -170,3 +170,4 @@ Collecting papers about new view synthesis
 73. Neural Articulated Radiance Field [[pdf]](https://arxiv.org/pdf/2104.03110.pdf) | [[code]](https://github.com/nogu-atsu/NARF)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NARF.JPG)
 74. Pixel Codec Avatars [[pdf]](https://arxiv.org/pdf/2104.04638.pdf)
+75. Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes [[pdf]](https://arxiv.org/pdf/2104.06935.pdf) | [[code]](https://virtualhumans.mpi-inf.mpg.de/srf/)
