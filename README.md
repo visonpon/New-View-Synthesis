@@ -50,7 +50,7 @@ Collecting papers about new view synthesis
 
 18. Free View Synthesis [[arxiv]](https://arxiv.org/pdf/2008.05511.pdf) | [[code]](https://github.com/intel-isl/FreeViewSynthesis) | 2020 
 
-19. Stable View Synthesis [[arxiv]](https://arxiv.org/pdf/2011.07233.pdf) | 2020
+19. Stable View Synthesis [[arxiv]](https://arxiv.org/pdf/2011.07233.pdf) | [[code]](https://github.com/intel-isl/StableViewSynthesis)2020
 
 20. Deformable Neural Radiance Fields [[pdf]](https://storage.googleapis.com/nerfies-public/videos/nerfies_paper.pdf) | [[code]](https://nerfies.github.io/) | 2020
 
