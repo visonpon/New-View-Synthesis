@@ -172,4 +172,5 @@ Collecting papers about new view synthesis
 74. Pixel Codec Avatars [[pdf]](https://arxiv.org/pdf/2104.04638.pdf)
 75. Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes [[pdf]](https://arxiv.org/pdf/2104.06935.pdf) | [[code]](https://virtualhumans.mpi-inf.mpg.de/srf/)
 76. Geometry-Free View Synthesis: Transformers and no 3D Priors [[pdf]](https://arxiv.org/pdf/2104.07652.pdf) | [[code]](https://github.com/CompVis/geometry-free-view-synthesis)
-77. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2002.06664.pdf) | [[project]](https://rohanchacko.github.io/peeledhuman.html)
+77. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2002.06664.pdf) | [[project]](https://rohanchacko.github.io/peeledhuman.html)\
+78. High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation [[pdf]](https://www.cs.rochester.edu/u/lchen63/cvpr2021-arxiv.pdf)
