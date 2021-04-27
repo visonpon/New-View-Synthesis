@@ -178,3 +178,5 @@ Collecting papers about new view synthesis
 80. FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling [[pdf]](https://arxiv.org/pdf/2104.08418v1.pdf) | [[project]](https://fig-nerf.github.io/)
 81. BARF : Bundle-Adjusting Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2104.06405v1.pdf) | [[project]](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)
 82. Neural RGB-D Surface Reconstruction [[pdf]](https://arxiv.org/pdf/2104.04532.pdf) | [[project]](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/)
+83. NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2103.14910v1.pdf) | [project](https://vincentfung13.github.io/projects/nemi/)
+84. 
