@@ -174,3 +174,5 @@ Collecting papers about new view synthesis
 76. Geometry-Free View Synthesis: Transformers and no 3D Priors [[pdf]](https://arxiv.org/pdf/2104.07652.pdf) | [[code]](https://github.com/CompVis/geometry-free-view-synthesis)
 77. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2002.06664.pdf) | [[project]](https://rohanchacko.github.io/peeledhuman.html)\
 78. High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation [[pdf]](https://www.cs.rochester.edu/u/lchen63/cvpr2021-arxiv.pdf)
+79. UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction [[pdf]](https://arxiv.org/pdf/2104.10078v1.pdf)
+80. FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling [[pdf]](https://arxiv.org/pdf/2104.08418v1.pdf) | [[project]](https://fig-nerf.github.io/)
