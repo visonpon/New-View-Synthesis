@@ -182,3 +182,4 @@ Collecting papers about new view synthesis
 84. Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis [[pdf]](https://arxiv.org/pdf/2104.13562.pdf)
 85. Animatable Neural Radiance Fields for Human Body Modeling [[project]](https://zju3dv.github.io/animatable_nerf/)
 86. Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors [[pdf]](https://arxiv.org/pdf/2105.01859.pdf)
+87. Editable Free-Viewpoint Video using a Layered Neural Representation [[pdf]](https://arxiv.org/pdf/2104.14786.pdf)
