@@ -180,3 +180,4 @@ Collecting papers about new view synthesis
 82. Neural RGB-D Surface Reconstruction [[pdf]](https://arxiv.org/pdf/2104.04532.pdf) | [[project]](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/)
 83. NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2103.14910v1.pdf) | [project](https://vincentfung13.github.io/projects/nemi/)
 84. Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis [[pdf]](https://arxiv.org/pdf/2104.13562.pdf)
+85. Animatable Neural Radiance Fields for Human Body Modeling [[project]](https://zju3dv.github.io/animatable_nerf/)
