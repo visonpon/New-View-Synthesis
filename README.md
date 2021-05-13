@@ -184,3 +184,4 @@ Collecting papers about new view synthesis
 86. Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors [[pdf]](https://arxiv.org/pdf/2105.01859.pdf)
 87. Editable Free-Viewpoint Video using a Layered Neural Representation [[pdf]](https://arxiv.org/pdf/2104.14786.pdf)
 88. LASR: Learning Articulated Shape Reconstruction from a Monocular Video [[project]](https://lasr-google.github.io/)
+89. Learning to Generate Novel Scene Compositions from Single Images and Videos [[pdf]](https://arxiv.org/pdf/2105.05847.pdf)
