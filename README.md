@@ -186,3 +186,6 @@ Collecting papers about new view synthesis
 88. LASR: Learning Articulated Shape Reconstruction from a Monocular Video [[project]](https://lasr-google.github.io/)
 89. Learning to Generate Novel Scene Compositions from Single Images and Videos [[pdf]](https://arxiv.org/pdf/2105.05847.pdf)
 90. POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture [[project]](http://www.liuyebin.com/posefusion/posefusion.html)
+91. Deep Relightable Appearance Models for Animatable Faces [[projcet]](https://sai-bi.github.io/project/sig21_avatar/index.html)
+92. Total Relighting:Learning to Relight Portraits for Background Replacement [[project]](https://augmentedperception.github.io/total_relighting/)
+
