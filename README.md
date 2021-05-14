@@ -188,4 +188,6 @@ Collecting papers about new view synthesis
 90. POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture [[project]](http://www.liuyebin.com/posefusion/posefusion.html)
 91. Deep Relightable Appearance Models for Animatable Faces [[projcet]](https://sai-bi.github.io/project/sig21_avatar/index.html)
 92. Total Relighting:Learning to Relight Portraits for Background Replacement [[project]](https://augmentedperception.github.io/total_relighting/)
+93. Dynamic View Synthesis from Dynamic Monocular Video [[pdf]](https://arxiv.org/pdf/2105.06468.pdf)
+94. Editing Conditional Radiance Fields [[pdf]](https://arxiv.org/pdf/2105.06466.pdf) | [[code]](https://github.com/stevliu/editnerf)
 
