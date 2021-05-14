@@ -190,4 +190,5 @@ Collecting papers about new view synthesis
 92. Total Relighting:Learning to Relight Portraits for Background Replacement [[project]](https://augmentedperception.github.io/total_relighting/)
 93. Dynamic View Synthesis from Dynamic Monocular Video [[pdf]](https://arxiv.org/pdf/2105.06468.pdf)
 94. Editing Conditional Radiance Fields [[pdf]](https://arxiv.org/pdf/2105.06466.pdf) | [[code]](https://github.com/stevliu/editnerf)
+95. Neural Trajectory Fields for Dynamic Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2105.05994.pdf)
 
