@@ -173,7 +173,8 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/pixel_avatar.PNG)
 75. Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes [[pdf]](https://arxiv.org/pdf/2104.06935.pdf) | [[code]](https://virtualhumans.mpi-inf.mpg.de/srf/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/SRF.PNG)
-77. Geometry-Free View Synthesis: Transformers and no 3D Priors [[pdf]](https://arxiv.org/pdf/2104.07652.pdf) | [[code]](https://github.com/CompVis/geometry-free-view-synthesis)
+76. Geometry-Free View Synthesis: Transformers and no 3D Priors [[pdf]](https://arxiv.org/pdf/2104.07652.pdf) | [[code]](https://github.com/CompVis/geometry-free-view-synthesis)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/GFVS1.PNG)
 78. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2002.06664.pdf) | [[project]](https://rohanchacko.github.io/peeledhuman.html)\
 79. High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation [[pdf]](https://www.cs.rochester.edu/u/lchen63/cvpr2021-arxiv.pdf)
 80. UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction [[pdf]](https://arxiv.org/pdf/2104.10078v1.pdf)
