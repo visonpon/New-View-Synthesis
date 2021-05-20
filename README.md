@@ -195,4 +195,5 @@ Collecting papers about new view synthesis
 95. Editing Conditional Radiance Fields [[pdf]](https://arxiv.org/pdf/2105.06466.pdf) | [[code]](https://github.com/stevliu/editnerf)
 96. Neural Trajectory Fields for Dynamic Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2105.05994.pdf)
 97. NeLF: Practical Novel View Synthesis with Neural Light Field [[pdf]](https://arxiv.org/pdf/2105.07112.pdf)
+98. Recursive-NeRF: An Efficient and Dynamically Growing NeRF [[pdf]](https://arxiv.org/pdf/2105.09103.pdf)
 
