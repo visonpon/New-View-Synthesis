@@ -198,4 +198,6 @@ Collecting papers about new view synthesis
 98. Recursive-NeRF: An Efficient and Dynamically Growing NeRF [[pdf]](https://arxiv.org/pdf/2105.09103.pdf)
 99. Convolutional Neural Opacity Radiance Fields [[pdf]](https://arxiv.org/pdf/2104.01772.pdf)
 100. Light Field Networks:Neural Scene Representations with Single-Evaluation Rendering [[project]](https://vsitzmann.github.io/lfns/)
+101. NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination[[project]](https://people.csail.mit.edu/xiuming/projects/nerfactor/)
+102. Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control[[pdf]](https://arxiv.org/pdf/2106.02019.pdf)
 
