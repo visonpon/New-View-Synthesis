@@ -197,5 +197,5 @@ Collecting papers about new view synthesis
 97. NeLF: Practical Novel View Synthesis with Neural Light Field [[pdf]](https://arxiv.org/pdf/2105.07112.pdf)
 98. Recursive-NeRF: An Efficient and Dynamically Growing NeRF [[pdf]](https://arxiv.org/pdf/2105.09103.pdf)
 99. Convolutional Neural Opacity Radiance Fields [[pdf]](https://arxiv.org/pdf/2104.01772.pdf)
-100. NEMI : Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis [[project]](https://vincentfung13.github.io/projects/nemi/)
+100. Light Field Networks:Neural Scene Representations with Single-Evaluation Rendering [[project]](https://vsitzmann.github.io/lfns/)
 
