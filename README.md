@@ -201,4 +201,5 @@ Collecting papers about new view synthesis
 101. NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination[[project]](https://people.csail.mit.edu/xiuming/projects/nerfactor/)
 102. Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control[[pdf]](https://arxiv.org/pdf/2106.02019.pdf) | [[project]](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
 103. DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering [[pdf]](https://arxiv.org/pdf/2106.03798.pdf) | [[project]](http://www.liuyebin.com/dmc/dmc.html)
+104. Neural Implicit 3D Shapes from Single Images with Spatial Patterns [[code]](https://github.com/yixin26/SVR-SP)
 
