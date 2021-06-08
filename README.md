@@ -200,4 +200,5 @@ Collecting papers about new view synthesis
 100. Light Field Networks:Neural Scene Representations with Single-Evaluation Rendering [[project]](https://vsitzmann.github.io/lfns/)
 101. NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination[[project]](https://people.csail.mit.edu/xiuming/projects/nerfactor/)
 102. Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control[[pdf]](https://arxiv.org/pdf/2106.02019.pdf)
+103. DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering [[pdf]](https://arxiv.org/pdf/2106.03798.pdf)
 
