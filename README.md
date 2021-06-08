@@ -199,6 +199,6 @@ Collecting papers about new view synthesis
 99. Convolutional Neural Opacity Radiance Fields [[pdf]](https://arxiv.org/pdf/2104.01772.pdf)
 100. Light Field Networks:Neural Scene Representations with Single-Evaluation Rendering [[project]](https://vsitzmann.github.io/lfns/)
 101. NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination[[project]](https://people.csail.mit.edu/xiuming/projects/nerfactor/)
-102. Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control[[pdf]](https://arxiv.org/pdf/2106.02019.pdf) | [[]project](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
+102. Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control[[pdf]](https://arxiv.org/pdf/2106.02019.pdf) | [[project]](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
 103. DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering [[pdf]](https://arxiv.org/pdf/2106.03798.pdf) | [[project]](http://www.liuyebin.com/dmc/dmc.html)
 
