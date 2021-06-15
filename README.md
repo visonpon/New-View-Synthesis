@@ -203,4 +203,5 @@ Collecting papers about new view synthesis
 103. DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering [[pdf]](https://arxiv.org/pdf/2106.03798.pdf) | [[project]](http://www.liuyebin.com/dmc/dmc.html)
 104. Neural Implicit 3D Shapes from Single Images with Spatial Patterns [[code]](https://github.com/yixin26/SVR-SP)
 105. NeRF in detail: Learning to sample for view synthesis [[pdf]](https://arxiv.org/pdf/2106.05264.pdf)
+106. View Generalization for Single Image Textured 3D Models [[projet]](https://nv-adlr.github.io/view-generalization)
 
