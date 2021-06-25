@@ -204,4 +204,5 @@ Collecting papers about new view synthesis
 104. Neural Implicit 3D Shapes from Single Images with Spatial Patterns [[code]](https://github.com/yixin26/SVR-SP)
 105. NeRF in detail: Learning to sample for view synthesis [[pdf]](https://arxiv.org/pdf/2106.05264.pdf)
 106. View Generalization for Single Image Textured 3D Models [[projet]](https://nv-adlr.github.io/view-generalization)
+107. HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[project]](https://hypernerf.github.io/)
 
