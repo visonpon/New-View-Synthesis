@@ -206,4 +206,6 @@ Collecting papers about new view synthesis
 106. View Generalization for Single Image Textured 3D Models [[projet]](https://nv-adlr.github.io/view-generalization)
 107. HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[project]](https://hypernerf.github.io/)
 108. FaDIV-Syn: Fast Depth-Independent View Synthesis [[pdf]](https://arxiv.org/pdf/2106.13139.pdf)
+109. Animatable Neural Radiance Fields from Monocular RGB Video [[pdf]](https://arxiv.org/pdf/2106.13629.pdf)
+110. Free-viewpoint Indoor Neural Relighting from Multi-view Stereo [[pdf]](https://arxiv.org/ftp/arxiv/papers/2106/2106.13299.pdf)
 
