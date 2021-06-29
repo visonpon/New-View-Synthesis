@@ -209,4 +209,4 @@ Collecting papers about new view synthesis
 109. Animatable Neural Radiance Fields from Monocular RGB Video [[pdf]](https://arxiv.org/pdf/2106.13629.pdf)
 110. Free-viewpoint Indoor Neural Relighting from Multi-view Stereo [[pdf]](https://arxiv.org/ftp/arxiv/papers/2106/2106.13299.pdf)
 111. StylePeople A Generative Model of Fullbody Human Avatars [[project]](https://saic-violet.github.io/style-people/)
-
+112. Explicit Clothing Modeling for an Animatable Full-Body Avatar [[pdf]](https://arxiv.org/pdf/2106.14879.pdf)
