@@ -212,4 +212,4 @@ Collecting papers about new view synthesis
 112. Explicit Clothing Modeling for an Animatable Full-Body Avatar [[pdf]](https://arxiv.org/pdf/2106.14879.pdf)
 113. Depth-supervised NeRF: Fewer Views and Faster Training for Free [[code]](https://github.com/dunbar12138/DSNeRF)
 114. iNeRF : Inverting Neural Radiance Fields for Pose Estimation [[project]](http://yenchenlin.me/inerf/)
-115. 
+115. Sharf: Shape-conditioned Radiance Fields from a Single View [[project]](http://www.krematas.com/sharf/index.html)
