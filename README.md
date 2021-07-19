@@ -213,3 +213,4 @@ Collecting papers about new view synthesis
 113. Depth-supervised NeRF: Fewer Views and Faster Training for Free [[code]](https://github.com/dunbar12138/DSNeRF)
 114. iNeRF : Inverting Neural Radiance Fields for Pose Estimation [[project]](http://yenchenlin.me/inerf/)
 115. Sharf: Shape-conditioned Radiance Fields from a Single View [[project]](http://www.krematas.com/sharf/index.html)
+116. STaR : Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[project]](https://wentaoyuan.github.io/star/)
