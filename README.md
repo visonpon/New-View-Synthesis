@@ -217,3 +217,4 @@ Collecting papers about new view synthesis
 117. NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting [[project]](http://cseweb.ucsd.edu/~viscomp/projects/EGSR21NeLF/)
 118. H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[project]](https://crisalixsa.github.io/h3d-net/)
 119. Neural Rays for Occlusion-aware Image-based Rendering [[project]](https://liuyuan-pal.github.io/NeuRay/)
+120. Fast and Explicit Neural View Synthesis [[pdf]](https://www.catalyzex.com/paper/arxiv:2107.05775)
