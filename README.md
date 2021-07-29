@@ -216,4 +216,4 @@ Collecting papers about new view synthesis
 116. STaR : Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[project]](https://wentaoyuan.github.io/star/)
 117. NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting [[project]](http://cseweb.ucsd.edu/~viscomp/projects/EGSR21NeLF/)
 118. H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[project]](https://crisalixsa.github.io/h3d-net/)
-119. Neural Rays for Occlusion-aware Image-based Rendering [[https://arxiv.org/pdf/2107.13421.pdf]]
+119. Neural Rays for Occlusion-aware Image-based Rendering [[project]](https://liuyuan-pal.github.io/NeuRay/)
