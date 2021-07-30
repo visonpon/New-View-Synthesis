@@ -218,3 +218,4 @@ Collecting papers about new view synthesis
 118. H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[project]](https://crisalixsa.github.io/h3d-net/)
 119. Neural Rays for Occlusion-aware Image-based Rendering [[project]](https://liuyuan-pal.github.io/NeuRay/)
 120. Fast and Explicit Neural View Synthesis [[pdf]](https://www.catalyzex.com/paper/arxiv:2107.05775)
+121. Baking Neural Radiance Fields for Real-Time View Synthesis [[project]](https://phog.github.io/snerg/)
