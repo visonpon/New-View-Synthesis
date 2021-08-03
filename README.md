@@ -222,3 +222,4 @@ Collecting papers about new view synthesis
 121. Fast and Explicit Neural View Synthesis [[pdf]](https://www.catalyzex.com/paper/arxiv:2107.05775)
 122. Baking Neural Radiance Fields for Real-Time View Synthesis [[project]](https://phog.github.io/snerg/)
 123. Relightable Neural Video Portrait [[pdf]](https://arxiv.org/pdf/2107.14735.pdf)
+124. MINE Towards Continuous Depth MPI with NeRF for Novel View Synthesis [[project]](https://vincentfung13.github.io/projects/mine/)
