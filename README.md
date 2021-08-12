@@ -224,3 +224,4 @@ Collecting papers about new view synthesis
 123. Relightable Neural Video Portrait [[pdf]](https://arxiv.org/pdf/2107.14735.pdf)
 124. MINE Towards Continuous Depth MPI with NeRF for Novel View Synthesis [[project]](https://vincentfung13.github.io/projects/mine/)
 125. NeuralMVS: Bridging Multi-View Stereo and Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2108.03880.pdf)
+126. FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation [[pdf]](https://arxiv.org/pdf/2108.04913.pdf)
