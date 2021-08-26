@@ -227,3 +227,4 @@ Collecting papers about new view synthesis
 126. FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation [[pdf]](https://arxiv.org/pdf/2108.04913.pdf)
 127. iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering [[pdf]](https://arxiv.org/pdf/2108.05577.pdf)
 128. NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction [[code]](https://github.com/Totoro97/NeuS)
+129. improved-nerfmm [[code]](https://github.com/ventusff/improved-nerfmm)
