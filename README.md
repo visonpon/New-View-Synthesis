@@ -229,4 +229,4 @@ Collecting papers about new view synthesis
 128. NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction [[code]](https://github.com/Totoro97/NeuS)
 129. improved-nerfmm [[code]](https://github.com/ventusff/improved-nerfmm)
 130. Self-Calibrating Neural Radiance Fields [[code]](https://github.com/POSTECH-CVLab/SCNeRF)
-131. Deep 3D Mask Volume for View Synthesis of Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2108.13408.pdf)
+131. Deep 3D Mask Volume for View Synthesis of Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2108.13408.pdf) | [[project]](https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/)
