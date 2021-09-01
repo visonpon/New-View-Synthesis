@@ -228,3 +228,4 @@ Collecting papers about new view synthesis
 127. iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering [[pdf]](https://arxiv.org/pdf/2108.05577.pdf)
 128. NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction [[code]](https://github.com/Totoro97/NeuS)
 129. improved-nerfmm [[code]](https://github.com/ventusff/improved-nerfmm)
+130. Self-Calibrating Neural Radiance Fields [[code]](https://github.com/POSTECH-CVLab/SCNeRF)
