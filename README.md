@@ -231,3 +231,4 @@ Collecting papers about new view synthesis
 130. Self-Calibrating Neural Radiance Fields [[code]](https://github.com/POSTECH-CVLab/SCNeRF)
 131. Deep 3D Mask Volume for View Synthesis of Dynamic Scenes [[pdf]](https://arxiv.org/pdf/2108.13408.pdf) | [[project]](https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/)
 132. NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo [[project]](https://weiyithu.github.io/NerfingMVS/)
+133. SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting [[project]](https://varunjampani.github.io/slide/)
