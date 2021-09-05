@@ -178,7 +178,7 @@ Collecting papers about new view synthesis
 78. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2002.06664.pdf) | [[project]](https://rohanchacko.github.io/peeledhuman.html)\
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/peeledhuamn2.PNG)
 79. High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation [[pdf]](https://www.cs.rochester.edu/u/lchen63/cvpr2021-arxiv.pdf)
-![image]()
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/high_fidelity.PNG)
 81. UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction [[pdf]](https://arxiv.org/pdf/2104.10078v1.pdf)
 82. FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling [[pdf]](https://arxiv.org/pdf/2104.08418v1.pdf) | [[project]](https://fig-nerf.github.io/)
 83. BARF : Bundle-Adjusting Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2104.06405v1.pdf) | [[project]](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)
