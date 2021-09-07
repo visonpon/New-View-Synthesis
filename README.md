@@ -233,3 +233,4 @@ Collecting papers about new view synthesis
 132. NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo [[project]](https://weiyithu.github.io/NerfingMVS/)
 133. SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting [[project]](https://varunjampani.github.io/slide/)
 134. Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency [[pdf]](https://arxiv.org/pdf/2109.01018.pdf)
+135. Stochastic Neural Radiance Fields:Quantifying Uncertainty in Implicit 3D Representations [[pdf]](https://arxiv.org/pdf/2109.02123.pdf)
