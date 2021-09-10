@@ -235,3 +235,4 @@ Collecting papers about new view synthesis
 134. Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency [[pdf]](https://arxiv.org/pdf/2109.01018.pdf)
 135. Stochastic Neural Radiance Fields:Quantifying Uncertainty in Implicit 3D Representations [[pdf]](https://arxiv.org/pdf/2109.02123.pdf)
 136. CodeNeRF: Disentangled Neural Radiance Fields for Object Categories [[code]](https://github.com/wayne1123/code-nerf)
+137. Multi-view 3D reconstruction using neural rendering [[code]](https://github.com/ventusff/neurecon)
