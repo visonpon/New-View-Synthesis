@@ -237,3 +237,4 @@ Collecting papers about new view synthesis
 136. CodeNeRF: Disentangled Neural Radiance Fields for Object Categories [[code]](https://github.com/wayne1123/code-nerf)
 137. Multi-view 3D reconstruction using neural rendering [[code]](https://github.com/ventusff/neurecon)
 138. Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering [[code]](https://youngjoongunc.github.io/nhp/)
+139. FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold [[project]](https://repo-sam.inria.fr/fungraph/freestylegan/)
