@@ -238,3 +238,5 @@ Collecting papers about new view synthesis
 137. Multi-view 3D reconstruction using neural rendering [[code]](https://github.com/ventusff/neurecon)
 138. Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering [[code]](https://youngjoongunc.github.io/nhp/)
 139. FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold [[project]](https://repo-sam.inria.fr/fungraph/freestylegan/)
+140. LENS: Localization enhanced by NeRF synthesis [[pdf]](https://arxiv.org/pdf/2110.06558.pdf)
+141. Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo [[pdf]](https://arxiv.org/pdf/2110.05594.pdf)
