@@ -241,3 +241,4 @@ Collecting papers about new view synthesis
 140. LENS: Localization enhanced by NeRF synthesis [[pdf]](https://arxiv.org/pdf/2110.06558.pdf)
 141. Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo [[pdf]](https://arxiv.org/pdf/2110.05594.pdf)
 142. ADOP: Approximate Differentiable One-Pixel Point Rendering [[pdf]](https://arxiv.org/pdf/2110.06635.pdf)
+143. NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild [[project]](https://jasonyzhang.com/ners/)
