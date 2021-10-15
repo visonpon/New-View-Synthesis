@@ -240,3 +240,4 @@ Collecting papers about new view synthesis
 139. FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold [[project]](https://repo-sam.inria.fr/fungraph/freestylegan/)
 140. LENS: Localization enhanced by NeRF synthesis [[pdf]](https://arxiv.org/pdf/2110.06558.pdf)
 141. Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo [[pdf]](https://arxiv.org/pdf/2110.05594.pdf)
+142. ADOP: Approximate Differentiable One-Pixel Point Rendering [[pdf]](https://arxiv.org/pdf/2110.06635.pdf)
