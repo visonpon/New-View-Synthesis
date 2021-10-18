@@ -247,3 +247,4 @@ Collecting papers about new view synthesis
 146. Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo [[pdf]](https://arxiv.org/pdf/2110.05594.pdf)
 147. ADOP: Approximate Differentiable One-Pixel Point Rendering [[pdf]](https://arxiv.org/pdf/2110.06635.pdf)
 148. NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild [[project]](https://jasonyzhang.com/ners/)
+149. Appearance Editing with Free-viewpoint Neural Rendering [[pdf]](https://arxiv.org/pdf/2110.07674.pdf)
