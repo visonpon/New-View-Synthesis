@@ -254,7 +254,7 @@ Collecting papers about new view synthesis
 151. NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping [[code]](https://github.com/ethz-asl/neuralblox)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_box.PNG)
 153. StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[project]](http://jiataogu.me/style_nerf/)
-154. ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/stylenerf1.PNG)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/stylenerf1.PNG)
 155.  3D-RETR [[code]](https://github.com/FomalhautB/3D-RETR)
-156.  ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-RETR.PNG)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-RETR.PNG)
 
