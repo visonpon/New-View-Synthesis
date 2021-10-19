@@ -248,3 +248,5 @@ Collecting papers about new view synthesis
 147. ADOP: Approximate Differentiable One-Pixel Point Rendering [[pdf]](https://arxiv.org/pdf/2110.06635.pdf)
 148. NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild [[project]](https://jasonyzhang.com/ners/)
 149. Appearance Editing with Free-viewpoint Neural Rendering [[pdf]](https://arxiv.org/pdf/2110.07674.pdf)
+150. NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping [[code]](https://github.com/ethz-asl/neuralblox)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/neural_box.PNG)
