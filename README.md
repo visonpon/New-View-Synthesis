@@ -179,7 +179,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/peeledhuamn2.PNG)
 79. High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation [[pdf]](https://www.cs.rochester.edu/u/lchen63/cvpr2021-arxiv.pdf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/high_fidelity.PNG)
-81. UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction [[pdf]](https://arxiv.org/pdf/2104.10078v1.pdf)
+81. UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction [[pdf]](https://arxiv.org/pdf/2104.10078v1.pdf) | [[code]](https://github.com/autonomousvision/unisurf)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/unisurf.PNG)
 83. FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling [[pdf]](https://arxiv.org/pdf/2104.08418v1.pdf) | [[project]](https://fig-nerf.github.io/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/fig-nerf1.PNG)
