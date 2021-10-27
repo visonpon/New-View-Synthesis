@@ -256,5 +256,6 @@ Collecting papers about new view synthesis
 153. StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[project]](http://jiataogu.me/style_nerf/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/stylenerf1.PNG)
 155. 3D-RETR: End-to-End Single and Multi-View3D Reconstruction with Transformers [[code]](https://github.com/FomalhautB/3D-RETR)
-![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-RETR.PNG)
+156. ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/3d-RETR.PNG)
+157. NeRV: Neural Representations for Videos [[code]](https://github.com/haochen-rye/NeRV)
 
