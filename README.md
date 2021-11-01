@@ -260,3 +260,4 @@ Collecting papers about new view synthesis
 157. NeRV: Neural Representations for Videos [[code]](https://github.com/haochen-rye/NeRV)
 158. H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion [[pdf]](https://arxiv.org/pdf/2110.13746.pdf)
 159. Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects [[https://arxiv.org/pdf/2110.14217.pdf]]
+160. Novel View Synthesis from a Single Image via Unsupervised Learning [[pdf]](https://arxiv.org/pdf/2110.15569.pdf)
