@@ -263,3 +263,4 @@ Collecting papers about new view synthesis
 160. Novel View Synthesis from a Single Image via Unsupervised Learning [[pdf]](https://arxiv.org/pdf/2110.15569.pdf)
 161. Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[code]](https://github.com/Angtian/NeuralVS)
 162. Volume Rendering of Neural Implicit Surfaces [[pdf]](https://arxiv.org/pdf/2106.12052.pdf)
+163. TöRF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis [[project]](https://imaging.cs.cmu.edu/torf/)
