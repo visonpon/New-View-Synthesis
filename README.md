@@ -266,3 +266,4 @@ Collecting papers about new view synthesis
 163. TöRF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis [[project]](https://imaging.cs.cmu.edu/torf/)
 164. Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance [[project]](https://lioryariv.github.io/idr/)
 165. Common Objects in 3D:Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | [[code]](https://github.com/facebookresearch/co3d)
+166. TermiNeRF: Ray Termination Prediction for Efficient Neural Rendering [[project]](https://projects.mackopes.com/terminerf/)
