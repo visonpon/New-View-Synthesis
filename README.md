@@ -268,3 +268,6 @@ Collecting papers about new view synthesis
 165. Common Objects in 3D:Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | [[code]](https://github.com/facebookresearch/co3d)
 166. TermiNeRF: Ray Termination Prediction for Efficient Neural Rendering [[project]](https://projects.mackopes.com/terminerf/)
 167. LOLNeRF: Learn from One Look [[pdf]](https://arxiv.org/pdf/2111.09996.pdf)
+168. DIVeR: Deterministic Integration for Volume Rendering [[pdf]](https://arxiv.org/pdf/2111.10427.pdf) | [[code]](https://github.com/lwwu2/diver)
+169. irect Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction [[pdf]](https://arxiv.org/pdf/2111.11215.pdf)  [[code]](https://github.com/sunset1995/DirectVoxGO)
+170. Neural Fields in Visual Computing and Beyond [[pdf]](https://arxiv.org/pdf/2111.11426.pdf)
