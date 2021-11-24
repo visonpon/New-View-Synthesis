@@ -271,3 +271,4 @@ Collecting papers about new view synthesis
 168. DIVeR: Deterministic Integration for Volume Rendering [[pdf]](https://arxiv.org/pdf/2111.10427.pdf) | [[code]](https://github.com/lwwu2/diver)
 169. irect Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction [[pdf]](https://arxiv.org/pdf/2111.11215.pdf)  [[code]](https://github.com/sunset1995/DirectVoxGO)
 170. Neural Fields in Visual Computing and Beyond [[pdf]](https://arxiv.org/pdf/2111.11426.pdf)
+171. Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2111.12077.pdf)
