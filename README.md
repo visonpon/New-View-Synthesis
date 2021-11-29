@@ -273,3 +273,4 @@ Collecting papers about new view synthesis
 170. Neural Fields in Visual Computing and Beyond [[pdf]](https://arxiv.org/pdf/2111.11426.pdf)
 171. Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2111.12077.pdf)
 172. VaxNeRF: Revisiting the Classic for Voxel-Accelerated Neural Radiance Field [[code]](https://github.com/naruya/VaxNeRF)
+173. NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images [[project]](https://bmild.github.io/rawnerf/)
