@@ -278,3 +278,4 @@ Collecting papers about new view synthesis
 175. Neural Fields as Learnable Kernels for 3D Reconstruction [[project]](https://nv-tlabs.github.io/nkf/)
 176. NeSF: Neural Scene Fields [[project]](https://nesf3d.github.io/)
 177. Human Pose Manipulation and Novel View Synthesis using Differentiable Rendering [[pdf]](https://arxiv.org/pdf/2111.12731.pdf)
+178. HDR-NeRF: High Dynamic Range Neural Radiance Fields [[project]](https://shsf0817.github.io/hdr-nerf/)
