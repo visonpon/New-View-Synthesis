@@ -279,3 +279,4 @@ Collecting papers about new view synthesis
 176. NeSF: Neural Scene Fields [[project]](https://nesf3d.github.io/)
 177. Human Pose Manipulation and Novel View Synthesis using Differentiable Rendering [[pdf]](https://arxiv.org/pdf/2111.12731.pdf)
 178. HDR-NeRF: High Dynamic Range Neural Radiance Fields [[project]](https://shsf0817.github.io/hdr-nerf/)
+179. Deblur-NeRF: Neural Radiance Fields from Blurry Images [[pdf]](https://arxiv.org/pdf/2111.14292.pdf)
