@@ -281,4 +281,5 @@ Collecting papers about new view synthesis
 178. HDR-NeRF: High Dynamic Range Neural Radiance Fields [[project]](https://shsf0817.github.io/hdr-nerf/)
 179. Deblur-NeRF: Neural Radiance Fields from Blurry Images [[pdf]](https://arxiv.org/pdf/2111.14292.pdf)
 180. NeuSample: Neural Sample Field for Efficient View Synthesis [[project]](https://jaminfong.cn/neusample/)
+181. FENeRF: Face Editing in Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2111.15490.pdf)
 
