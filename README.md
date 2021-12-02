@@ -284,3 +284,4 @@ Collecting papers about new view synthesis
 181. FENeRF: Face Editing in Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2111.15490.pdf)
 182. Hallucinated Neural Radiance Fields in the Wild [[pdf]](https://arxiv.org/pdf/2111.15246.pdf)
 183. NeRFReN: Neural Radiance Fields with Reflections  [[project]](https://bennyguo.github.io/nerfren/)
+184. Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs [[project]](https://m-niemeyer.github.io/regnerf/index.html)
