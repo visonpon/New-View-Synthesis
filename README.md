@@ -285,3 +285,6 @@ Collecting papers about new view synthesis
 182. Hallucinated Neural Radiance Fields in the Wild [[pdf]](https://arxiv.org/pdf/2111.15246.pdf)
 183. NeRFReN: Neural Radiance Fields with Reflections  [[project]](https://bennyguo.github.io/nerfren/)
 184. Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs [[project]](https://m-niemeyer.github.io/regnerf/index.html)
+185. Learning Neural Light Fields with Ray-Space Embedding Networks [[project]](https://neural-light-fields.github.io/)
+186. Neural Point Light Fields [[pdf]](https://arxiv.org/pdf/2112.01473.pdf)
+
