@@ -289,4 +289,5 @@ Collecting papers about new view synthesis
 186. Neural Point Light Fields [[pdf]](https://arxiv.org/pdf/2112.01473.pdf)
 187. CoNeRF: Controllable Neural Radiance Fields [[project]](https://conerf.github.io/)
 188. NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling [[project]](https://cwchenwang.github.io/nerf-sr/)
+189. Neural Head Avatars from Monocular RGB Videos [[project]](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
 
