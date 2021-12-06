@@ -290,4 +290,5 @@ Collecting papers about new view synthesis
 187. CoNeRF: Controllable Neural Radiance Fields [[project]](https://conerf.github.io/)
 188. NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling [[project]](https://cwchenwang.github.io/nerf-sr/)
 189. Neural Head Avatars from Monocular RGB Videos [[project]](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
+190. Fast Neural Representations for Direct Volume Rendering [[project]](https://github.com/shamanDevel/fV-SRN)
 
