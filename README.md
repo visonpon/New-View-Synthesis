@@ -319,3 +319,4 @@ Collecting papers about new view synthesis
 189. Neural Head Avatars from Monocular RGB Videos [[project]](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
 190. Fast Neural Representations for Direct Volume Rendering [[project]](https://github.com/shamanDevel/fV-SRN)
 191. Efficient Neural Radiance Fields with Learned Depth-Guided Sampling [[project]](https://zju3dv.github.io/enerf/)
+192. HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs [[pdf]](https://arxiv.org/pdf/2112.02789.pdf)
