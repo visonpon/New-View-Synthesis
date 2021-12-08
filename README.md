@@ -321,4 +321,5 @@ Collecting papers about new view synthesis
 191. Efficient Neural Radiance Fields with Learned Depth-Guided Sampling [[project]](https://zju3dv.github.io/enerf/)
 192. HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs [[pdf]](https://arxiv.org/pdf/2112.02789.pdf)
 193. Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields [[project]](https://dorverbin.github.io/refnerf/)
+194. CG-NeRF: Conditional Generative Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2112.03517.pdf)
 
