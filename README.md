@@ -326,4 +326,5 @@ Collecting papers about new view synthesis
 192. HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs [[pdf]](https://arxiv.org/pdf/2112.02789.pdf)
 193. Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields [[project]](https://dorverbin.github.io/refnerf/)
 194. CG-NeRF: Conditional Generative Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2112.03517.pdf)
+195. Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering [[pdf]](https://arxiv.org/pdf/2112.04312.pdf)
 
