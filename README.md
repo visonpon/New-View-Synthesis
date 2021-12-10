@@ -331,4 +331,6 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NeRF_OSR1.PNG)
 198. CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [[project]](https://cassiepython.github.io/clipnerf/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/CLIP_NeRF.PNG)
+199. Plenoxels: Radiance Fields without Neural Networks [[project]](https://alexyu.net/plenoxels/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/Plenoxels.PNG)
 
