@@ -327,4 +327,8 @@ Collecting papers about new view synthesis
 193. Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields [[project]](https://dorverbin.github.io/refnerf/)
 194. CG-NeRF: Conditional Generative Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2112.03517.pdf)
 195. Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering [[pdf]](https://arxiv.org/pdf/2112.04312.pdf)
+196. Neural Radiance Fields for Outdoor Scene Relighting [[project]](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NeRF_OSR1.PNG)
+198. CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [[project]](https://cassiepython.github.io/clipnerf/)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/CLIP_NeRF.PNG)
 
