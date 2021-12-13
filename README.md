@@ -333,4 +333,7 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/CLIP_NeRF.PNG)
 199. Plenoxels: Radiance Fields without Neural Networks [[project]](https://alexyu.net/plenoxels/)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/Plenoxels.PNG)
+200. HeadNeRF: A Real-time NeRF-based Parametric Head Model  [[project]](https://hy1995.top/HeadNeRF-Project/)
+201. PERF: Performant, Explicit Radiance Fields [[pdf]](https://arxiv.org/pdf/2112.05598.pdf)
+202. CityNeRF: Building NeRF at City Scale  [[project]](https://city-super.github.io/citynerf/)
 
