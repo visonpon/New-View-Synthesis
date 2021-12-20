@@ -337,4 +337,5 @@ Collecting papers about new view synthesis
 201. PERF: Performant, Explicit Radiance Fields [[pdf]](https://arxiv.org/pdf/2112.05598.pdf)
 202. CityNeRF: Building NeRF at City Scale  [[project]](https://city-super.github.io/citynerf/)
 203. Dynamic View Synthesis from Dynamic Monocular Video [[project]](https://free-view-video.github.io/)
+204. Light Field Neural Rendering [[project]](https://light-field-neural-rendering.github.io/)
 
