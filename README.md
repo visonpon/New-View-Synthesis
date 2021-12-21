@@ -338,4 +338,5 @@ Collecting papers about new view synthesis
 202. CityNeRF: Building NeRF at City Scale  [[project]](https://city-super.github.io/citynerf/)
 203. Dynamic View Synthesis from Dynamic Monocular Video [[project]](https://free-view-video.github.io/)
 204. Light Field Neural Rendering [[project]](https://light-field-neural-rendering.github.io/)
+205. Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs [[project]](https://meganerf.cmusatyalab.org/)
 
