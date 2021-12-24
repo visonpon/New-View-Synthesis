@@ -339,4 +339,5 @@ Collecting papers about new view synthesis
 203. Dynamic View Synthesis from Dynamic Monocular Video [[project]](https://free-view-video.github.io/)
 204. Light Field Neural Rendering [[project]](https://light-field-neural-rendering.github.io/)
 205. Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs [[project]](https://meganerf.cmusatyalab.org/)
+206. DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation[[pdf]](https://arxiv.org/pdf/2112.12390.pdf)
 
