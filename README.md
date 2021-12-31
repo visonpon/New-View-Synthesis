@@ -340,4 +340,5 @@ Collecting papers about new view synthesis
 204. Light Field Neural Rendering [[project]](https://light-field-neural-rendering.github.io/)
 205. Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs [[project]](https://meganerf.cmusatyalab.org/)
 206. DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation[[pdf]](https://arxiv.org/pdf/2112.12390.pdf)
+207. Human View Synthesis using a Single Sparse RGB-D Input  [[project]](https://www.phongnhhn.info/HVS_Net/index.html)
 
