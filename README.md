@@ -343,4 +343,5 @@ Collecting papers about new view synthesis
 207. Human View Synthesis using a Single Sparse RGB-D Input  [[project]](https://www.phongnhhn.info/HVS_Net/index.html)
 208. DFA-NeRF: Personalized Talking Head Generation via Disentangled Face attributes Neural Rendering [[pdf]](https://arxiv.org/pdf/2201.00791.pdf)
 209. InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering [[project]](http://cvlab.snu.ac.kr/research/InfoNeRF/)
+210. NeROIC: Neural Object Capture and Rendering from Online Image Collections [[project]](https://formyfamily.github.io/NeROIC/)
 
