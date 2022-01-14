@@ -345,3 +345,4 @@ Collecting papers about new view synthesis
 209. InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering [[project]](http://cvlab.snu.ac.kr/research/InfoNeRF/)
 210. NeROIC: Neural Object Capture and Rendering from Online Image Collections [[project]](https://formyfamily.github.io/NeROIC/)
 211. HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video [[project]](https://grail.cs.washington.edu/projects/humannerf/)
+212. Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [[code]](https://github.com/NVlabs/instant-ngp)
