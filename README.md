@@ -348,3 +348,4 @@ Collecting papers about new view synthesis
 212. Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [[code]](https://github.com/NVlabs/instant-ngp)
 213. Point-NeRF: Point-based Neural Radiance Fields [project](https://xharlie.github.io/projects/project_sites/pointnerf/)
 214. Animatable Neural Radiance Fields from Monocular RGB Videos [[code]](https://github.com/JanaldoChen/Anim-NeRF)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/anim_nerf.png)
