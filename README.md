@@ -347,5 +347,6 @@ Collecting papers about new view synthesis
 211. HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video [[project]](https://grail.cs.washington.edu/projects/humannerf/)
 212. Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [[code]](https://github.com/NVlabs/instant-ngp)
 213. Point-NeRF: Point-based Neural Radiance Fields [project](https://xharlie.github.io/projects/project_sites/pointnerf/)
-214. Animatable Neural Radiance Fields from Monocular RGB Videos [[code]](https://github.com/JanaldoChen/Anim-NeRF)
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/point_nerf.png)
+215. Animatable Neural Radiance Fields from Monocular RGB Videos [[code]](https://github.com/JanaldoChen/Anim-NeRF)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/anim_nerf.png)
