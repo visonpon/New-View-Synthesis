@@ -352,3 +352,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/point_nerf.png)
 215. Animatable Neural Radiance Fields from Monocular RGB Videos [[code]](https://github.com/JanaldoChen/Anim-NeRF)
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/anim_nerf.png)
+216. Block-NeRF: Scalable Large Scene Neural View Synthesis [[project]](https://waymo.com/intl/zh-cn/research/block-nerf/)
