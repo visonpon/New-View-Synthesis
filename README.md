@@ -354,3 +354,4 @@ Collecting papers about new view synthesis
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/anim_nerf.png)
 216. Block-NeRF: Scalable Large Scene Neural View Synthesis [[project]](https://waymo.com/intl/zh-cn/research/block-nerf/)
 217. PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2202.04879.pdf)
+218. NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing [[pdf]](https://arxiv.org/pdf/2202.06088.pdf)
