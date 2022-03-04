@@ -356,3 +356,4 @@ Collecting papers about new view synthesis
 217. PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2202.04879.pdf)
 218. NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing [[pdf]](https://arxiv.org/pdf/2202.06088.pdf)
 219. NeuralFusion: Neural Volumetric Rendering under Human-object Interactions [[pdf]](https://arxiv.org/pdf/2202.12825.pdf)
+220. NeRF-Supervision：Learning Dense Object Descriptors from Neural Radiance Fields [[project]](https://yenchenlin.me/nerf-supervision/)
