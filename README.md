@@ -357,3 +357,5 @@ Collecting papers about new view synthesis
 218. NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing [[pdf]](https://arxiv.org/pdf/2202.06088.pdf)
 219. NeuralFusion: Neural Volumetric Rendering under Human-object Interactions [[pdf]](https://arxiv.org/pdf/2202.12825.pdf)
 220. NeRF-Supervision：Learning Dense Object Descriptors from Neural Radiance Fields [[project]](https://yenchenlin.me/nerf-supervision/)
+221. NeReF: Neural Refractive Field for Fluid Surface Reconstruction and Implicit Representation [[pdf]](https://arxiv.org/pdf/2203.04130.pdf)
+222. RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[project]](https://github.com/Boese0601/RC-MVSNet)
