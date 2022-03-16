@@ -360,3 +360,4 @@ Collecting papers about new view synthesis
 221. NeReF: Neural Refractive Field for Fluid Surface Reconstruction and Implicit Representation [[pdf]](https://arxiv.org/pdf/2203.04130.pdf)
 222. RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[project]](https://github.com/Boese0601/RC-MVSNet)
 223. NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation [[pdf]](https://arxiv.org/pdf/2203.04802.pdf)
+224. DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation [[pdf]](https://arxiv.org/pdf/2203.07931.pdf)
