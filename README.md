@@ -363,3 +363,4 @@ Collecting papers about new view synthesis
 224. DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation [[pdf]](https://arxiv.org/pdf/2203.07931.pdf)
 225. Tensorial Radiance Fields [[project]](https://apchenstu.github.io/TensoRF/)
 226. Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras [[pdf]](https://arxiv.org/pdf/2203.08896.pdf)
+227. Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[pdf]](https://zju3dv.github.io/object_nerf/)
