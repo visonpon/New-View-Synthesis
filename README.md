@@ -364,3 +364,6 @@ Collecting papers about new view synthesis
 225. Tensorial Radiance Fields [[project]](https://apchenstu.github.io/TensoRF/)
 226. Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras [[pdf]](https://arxiv.org/pdf/2203.08896.pdf)
 227. Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[pdf]](https://zju3dv.github.io/object_nerf/)
+228. Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification [[pdf]](https://arxiv.org/pdf/2203.10192.pdf)
+229. ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers[[pdf]](https://arxiv.org/pdf/2203.10157.pdf)
+230. Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields[[project]](https://donydchen.github.io/sem2nerf/)
