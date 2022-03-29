@@ -369,3 +369,4 @@ Collecting papers about new view synthesis
 230. Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields[[project]](https://donydchen.github.io/sem2nerf/)
 231. NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction [[project]](https://jetd1.github.io/NeRFusion-Web/)
 232. Spline-NeRF: C0-Continuous Dynamic NeRF [[project]](https://github.com/JulianKnodt/nerf_atlas)
+233. NPBG++: Accelerating Neural Point-Based Graphics [[project]](https://rakhimovv.github.io/npbgpp/)
