@@ -371,3 +371,4 @@ Collecting papers about new view synthesis
 232. Spline-NeRF: C0-Continuous Dynamic NeRF [[project]](https://github.com/JulianKnodt/nerf_atlas)
 233. NPBG++: Accelerating Neural Point-Based Graphics [[project]](https://rakhimovv.github.io/npbgpp/)
 234. DRaCoN – Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars [[project]](https://dracon-avatars.github.io/)
+235. AutoRF: Learning 3D Object Radiance Fields from Single View Observations [[project]](https://sirwyver.github.io/AutoRF/)
