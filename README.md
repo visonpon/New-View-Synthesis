@@ -372,3 +372,4 @@ Collecting papers about new view synthesis
 233. NPBG++: Accelerating Neural Point-Based Graphics [[project]](https://rakhimovv.github.io/npbgpp/)
 234. DRaCoN – Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars [[project]](https://dracon-avatars.github.io/)
 235. AutoRF: Learning 3D Object Radiance Fields from Single View Observations [[project]](https://sirwyver.github.io/AutoRF/)
+236. NAN: Noise-Aware NeRFs for Burst-Denoising [[project]](https://noise-aware-nerf.github.io/)
