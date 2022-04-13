@@ -373,3 +373,4 @@ Collecting papers about new view synthesis
 234. DRaCoN – Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars [[project]](https://dracon-avatars.github.io/)
 235. AutoRF: Learning 3D Object Radiance Fields from Single View Observations [[project]](https://sirwyver.github.io/AutoRF/)
 236. NAN: Noise-Aware NeRFs for Burst-Denoising [[project]](https://noise-aware-nerf.github.io/)
+237. GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation [[project]](https://sfchng.github.io/garf/)
