@@ -374,3 +374,4 @@ Collecting papers about new view synthesis
 235. AutoRF: Learning 3D Object Radiance Fields from Single View Observations [[project]](https://sirwyver.github.io/AutoRF/)
 236. NAN: Noise-Aware NeRFs for Burst-Denoising [[project]](https://noise-aware-nerf.github.io/)
 237. GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation [[project]](https://sfchng.github.io/garf/)
+238. StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions [[project]](https://lukashoel.github.io/stylemesh/)
