@@ -376,3 +376,7 @@ Collecting papers about new view synthesis
 237. GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation [[project]](https://sfchng.github.io/garf/)
 238. StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions [[project]](https://lukashoel.github.io/stylemesh/)
 239. Modeling Indirect Illumination for Inverse Rendering [[project]](https://zju3dv.github.io/invrender/)
+240.  Block-NeRF Scalable Large Scene Neural View Synthesis [[project]](https://waymo.com/intl/zh-cn/research/block-nerf/)
+241.  FENeRF: Face Editing in Neural Radiance Fields [[project]](https://mrtornado24.github.io/FENeRF/)
+242.  RegNeRF:Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs [[project]](https://m-niemeyer.github.io/regnerf/index.html)
+243.  Urban Radiance Fields [[project]](https://urban-radiance-fields.github.io/)
