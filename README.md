@@ -382,3 +382,4 @@ Collecting papers about new view synthesis
 243.  Urban Radiance Fields [[project]](https://urban-radiance-fields.github.io/)
 244.  Dense Depth Priors for Neural Radiance Fields from Sparse Input Views [[project]](https://barbararoessle.github.io/dense_depth_priors_nerf/)
 245.  Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation [[https://arxiv.org/pdf/2204.10850.pdf]]
+246.  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis [[project]](https://generalizable-neural-performer.github.io/)
