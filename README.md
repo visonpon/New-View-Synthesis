@@ -383,3 +383,4 @@ Collecting papers about new view synthesis
 244.  Dense Depth Priors for Neural Radiance Fields from Sparse Input Views [[project]](https://barbararoessle.github.io/dense_depth_priors_nerf/)
 245.  Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation [[https://arxiv.org/pdf/2204.10850.pdf]]
 246.  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis [[project]](https://generalizable-neural-performer.github.io/)
+247.  Real-Time Neural Character Rendering with Pose-Guided Multiplane Images [[project]](https://ken-ouyang.github.io/cmpi/index.html)
