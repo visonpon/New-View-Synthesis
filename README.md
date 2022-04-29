@@ -384,3 +384,4 @@ Collecting papers about new view synthesis
 245.  Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation [[https://arxiv.org/pdf/2204.10850.pdf]]
 246.  Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis [[project]](https://generalizable-neural-performer.github.io/)
 247.  Real-Time Neural Character Rendering with Pose-Guided Multiplane Images [[project]](https://ken-ouyang.github.io/cmpi/index.html)
+248.  NeuMips: Neural Mixture of Planar Experts for View Synthesis [[project]](https://zhihao-lin.github.io/neurmips/)
