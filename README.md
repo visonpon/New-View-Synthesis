@@ -386,3 +386,4 @@ Collecting papers about new view synthesis
 247.  Real-Time Neural Character Rendering with Pose-Guided Multiplane Images [[project]](https://ken-ouyang.github.io/cmpi/index.html)
 248.  NeuMips: Neural Mixture of Planar Experts for View Synthesis [[project]](https://zhihao-lin.github.io/neurmips/)
 249.  KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints [[project]](https://markomih.github.io/KeypointNeRF/)
+250.  NeRF-Editing: Geometry Editing of Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2205.04978.pdf)
