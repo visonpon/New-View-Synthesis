@@ -389,3 +389,4 @@ Collecting papers about new view synthesis
 250.  NeRF-Editing: Geometry Editing of Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2205.04978.pdf)
 251.  View Synthesis with Sculpted Neural Points [[project]](https://github.com/princeton-vl/SNP)
 252.  Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation [[pdf]](https://arxiv.org/pdf/2205.05922.pdf)
+253.  3D Moments from Near-Duplicate Photos [[project]](https://3d-moments.github.io/)
