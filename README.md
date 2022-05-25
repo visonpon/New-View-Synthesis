@@ -393,3 +393,4 @@ Collecting papers about new view synthesis
 254.  Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2205.09351v1.pdf)
 255.  EfficientNeRF – Efficient Neural Radiance Fields [[pdf]](https://jiaya.me/papers/cvpr22_hutao.pdf) | [[code]](ttps://github.com/dvlab-
 research/EfficientNeRF)
+256. StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning [[pdf]](https://arxiv.org/pdf/2205.12183.pdf)
