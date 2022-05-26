@@ -394,3 +394,4 @@ Collecting papers about new view synthesis
 255.  EfficientNeRF – Efficient Neural Radiance Fields [[pdf]](https://jiaya.me/papers/cvpr22_hutao.pdf) | [[code]](ttps://github.com/dvlab-
 research/EfficientNeRF)
 256. StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning [[pdf]](https://arxiv.org/pdf/2205.12183.pdf)
+257. Neural 3D Reconstruction in the Wild [[project]](https://zju3dv.github.io/neuralrecon-w/)
