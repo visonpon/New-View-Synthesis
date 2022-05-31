@@ -395,3 +395,5 @@ Collecting papers about new view synthesis
 research/EfficientNeRF)
 256. StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning [[pdf]](https://arxiv.org/pdf/2205.12183.pdf)
 257. Neural 3D Reconstruction in the Wild [[project]](https://zju3dv.github.io/neuralrecon-w/)
+258. TiNeuVox:Fast Dynamic Radiance Fields with Time-Aware Neural Voxels [[project]](https://jaminfong.cn/tineuvox/)
+259. V4D: Voxel for 4D Novel View Synthesis [[pdf]](https://arxiv.org/pdf/2205.14332.pdf)
