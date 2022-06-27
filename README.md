@@ -313,7 +313,7 @@ Collecting papers about new view synthesis
 179. Deblur-NeRF: Neural Radiance Fields from Blurry Images [[pdf]](https://arxiv.org/pdf/2111.14292.pdf)
 180. NeuSample: Neural Sample Field for Efficient View Synthesis [[project]](https://jaminfong.cn/neusample/)
 181. FENeRF: Face Editing in Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2111.15490.pdf)
-182. Hallucinated Neural Radiance Fields in the Wild [[pdf]](https://arxiv.org/pdf/2111.15246.pdf)
+182. Hallucinated Neural Radiance Fields in the Wild [[pdf]](https://arxiv.org/pdf/2111.15246.pdf) | [[project]](https://rover-xingyu.github.io/Ha-NeRF/)
 183. NeRFReN: Neural Radiance Fields with Reflections  [[project]](https://bennyguo.github.io/nerfren/)
 184. Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs [[project]](https://m-niemeyer.github.io/regnerf/index.html)
 185. Learning Neural Light Fields with Ray-Space Embedding Networks [[project]](https://neural-light-fields.github.io/)
