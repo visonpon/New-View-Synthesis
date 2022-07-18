@@ -414,3 +414,4 @@ research/EfficientNeRF)
 274. Progressively-connected Light Field Network for Efficient View Synthesis [[project]](https://totoro97.github.io/projects/prolif/)
 275. Vision Transformer for NeRF-Based View Synthesis from a Single Input Image [[project]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
 276. Relighting4D: Neural Relightable Human from Videos [[code]](https://github.com/FrozenBurning/Relighting4D)
+277. Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation [[https://zju3dv.github.io/neural_outdoor_rerender/]]
