@@ -429,3 +429,5 @@ research/EfficientNeRF)
 289. UPST-NeRF: Universal Photorealistic Style Transfer of Neural Radiance Fields for 3D Scene [[project]](https://semchan.github.io/UPST_NeRF/)
 290. Scalable Neural Indoor Scene Rendering [[project]](https://xchaowu.github.io/papers/scalable-nisr/)
 291. NeuralPassthrough: Learned Real-Time View Synthesis for VR  [[code]](https://github.com/facebookresearch/NeuralPassthrough)
+292. NeROIC: Neural Object Capture and Rendering from Online Image Collections [[project]](https://formyfamily.github.io/NeROIC/)
+
