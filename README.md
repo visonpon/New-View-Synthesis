@@ -62,8 +62,11 @@ Collecting papers about new view synthesis
 
 20. Deformable Neural Radiance Fields [[pdf]](https://storage.googleapis.com/nerfies-public/videos/nerfies_paper.pdf) | [[code]](https://nerfies.github.io/) | 2020
 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/nerfies.png)
+
 21. MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images [[arxiv]](https://arxiv.org/pdf/2008.06534.pdf) | [[code]](http://visual.cs.brown.edu/projects/matryodshka-webpage/) | 2020 
 
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/MatryODShka.png)
 22. Immersive light field video with a layered mesh representation [[pdf]](https://storage.googleapis.com/immersive-lf-video-siggraph2020/ImmersiveLightFieldVideoWithALayeredMeshRepresentation.pdf) | [[project]](https://augmentedperception.github.io/deepviewvideo/) | 2020
 
 23. NRMVS: Non-Rigid Multi-View Stereo [[code]](https://arxiv.org/pdf/1901.03910.pdf) | 2019
