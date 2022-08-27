@@ -39,7 +39,8 @@ Collecting papers about new view synthesis
 13. Semantic view synthesis [[arxiv]](https://arxiv.org/pdf/2008.10598.pdf) | [[code]](https://hhsinping.github.io/svs/index.html?utm_source=catalyzex.com) |2020 
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/semantic%20View%20Syhthesis.JPG)
 
-14. Single-view view synthesis with multiplane images [[arxiv]](https://single-view-mpi.github.io/single_view_mpi.pdf) | [[code]](https://single-view-mpi.github.io/) | 2020 
+14. Single-view view synthesis with multiplane images [[arxiv]](https://single-view-mpi.github.io/single_view_mpi.pdf) | [[code]](https://single-view-mpi.github.io/) | 2020
+ 
 ![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/SVS.JPG)
 
 15. Neural Sparse Voxel Fields [[arixv]](https://arxiv.org/pdf/2007.11571.pdf) | [[code]](https://github.com/facebookresearch/NSVF) | 2020 
