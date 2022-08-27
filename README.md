@@ -45,8 +45,10 @@ Collecting papers about new view synthesis
 15. Neural Sparse Voxel Fields [[arixv]](https://arxiv.org/pdf/2007.11571.pdf) | [[code]](https://github.com/facebookresearch/NSVF) | 2020 
 
 16. SynSin: End-to-end View Synthesis from a Single Image [[arxiv]](https://arxiv.org/pdf/1912.08804.pdf) | [[code]](https://github.com/facebookresearch/pytorch3d?utm_source=catalyzex.com) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/SynSin.png)
 
 17. Neural Point-Based Graphics [[arxiv]](https://arxiv.org/pdf/1906.08240.pdf) | [[code]](https://github.com/alievk/npbg_eval?utm_source=catalyzex.com) | 2020
+![image](https://github.com/visonpon/New-View-Synthesis/blob/main/images/NPBG2.png)
 
 18. Free View Synthesis [[arxiv]](https://arxiv.org/pdf/2008.05511.pdf) | [[code]](https://github.com/intel-isl/FreeViewSynthesis) | 2020 
 
