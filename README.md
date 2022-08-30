@@ -444,4 +444,5 @@ research/EfficientNeRF)
 292. NeROIC: Neural Object Capture and Rendering from Online Image Collections [[project]](https://formyfamily.github.io/NeROIC/)
 293. Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors [[project]](https://talegqz.github.io/neural_novel_actor/)
 294. PeRFception - Perception using Radiance Fields [[code]](https://github.com/POSTECH-CVLab/PeRFception)
+295. Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research [[code]](https://github.com/NVIDIAGameWorks/kaolin-wisp)
 
