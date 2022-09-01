@@ -446,4 +446,5 @@ research/EfficientNeRF)
 294. PeRFception - Perception using Radiance Fields [[code]](https://github.com/POSTECH-CVLab/PeRFception)
 295. Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research [[code]](https://github.com/NVIDIAGameWorks/kaolin-wisp)
 296. Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces [[code]](https://github.com/zyhbili/Dual-Space-NeRF)
+297. Intrinsic Neural Fields: Learning Functions on Manifolds [[code]](https://github.com/tum-vision/intrinsic-neural-fields)
 
