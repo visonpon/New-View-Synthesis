@@ -447,4 +447,4 @@ research/EfficientNeRF)
 295. Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research [[code]](https://github.com/NVIDIAGameWorks/kaolin-wisp)
 296. Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces [[code]](https://github.com/zyhbili/Dual-Space-NeRF)
 297. Intrinsic Neural Fields: Learning Functions on Manifolds [[code]](https://github.com/tum-vision/intrinsic-neural-fields)
-
+298. Cross-Spectral Neural Radiance Fields [[project]](https://cvlab-unibo.github.io/xnerf-web/)
