@@ -377,7 +377,7 @@ Collecting papers about new view synthesis
 226. Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras [[pdf]](https://arxiv.org/pdf/2203.08896.pdf)
 227. Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[pdf]](https://zju3dv.github.io/object_nerf/)
 228. Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification [[pdf]](https://arxiv.org/pdf/2203.10192.pdf)
-229. ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers[[pdf]](https://arxiv.org/pdf/2203.10157.pdf)
+229. ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers[[pdf]](https://arxiv.org/pdf/2203.10157.pdf) | [[code]](https://github.com/jkulhanek/viewformer)
 230. Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields[[project]](https://donydchen.github.io/sem2nerf/)
 231. NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction [[project]](https://jetd1.github.io/NeRFusion-Web/)
 232. Spline-NeRF: C0-Continuous Dynamic NeRF [[project]](https://github.com/JulianKnodt/nerf_atlas)
