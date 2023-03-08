@@ -479,4 +479,5 @@ research/EfficientNeRF)
 327. DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Mode [[pdf]](https://arxiv.org/pdf/2302.12231.pdf)
 328. BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis [[project]](https://bakedsdf.github.io/)
 329. S-NeRF: Neural Radiance Fields for Street Views [[project]](https://ziyang-xie.github.io/s-nerf/)
+330. Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision [[project]](https://jetd1.github.io/nerflets-web/)
 
