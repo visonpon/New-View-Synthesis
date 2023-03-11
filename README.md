@@ -481,4 +481,5 @@ research/EfficientNeRF)
 329. S-NeRF: Neural Radiance Fields for Street Views [[project]](https://ziyang-xie.github.io/s-nerf/)
 330. Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision [[project]](https://jetd1.github.io/nerflets-web/)
 331. Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinem [[project]](https://me.kiui.moe/nerf2mesh/)
+332. PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [[project]](https://sites.google.com/view/PAC-NeRF)
 
