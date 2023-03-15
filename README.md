@@ -484,4 +484,5 @@ research/EfficientNeRF)
 332. PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [[project]](https://sites.google.com/view/PAC-NeRF)
 333. Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields  [[project]](https://cuiziteng.github.io/Aleth_NeRF_web/)
 334. 3D Cinemagraphy from a Single Image [[project]](https://xingyi-li.github.io/3d-cinemagraphy/)
+335. FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization [[project]](https://jiawei-yang.github.io/FreeNeRF/)
 
