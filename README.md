@@ -485,4 +485,6 @@ research/EfficientNeRF)
 333. Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields  [[project]](https://cuiziteng.github.io/Aleth_NeRF_web/)
 334. 3D Cinemagraphy from a Single Image [[project]](https://xingyi-li.github.io/3d-cinemagraphy/)
 335. FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization [[project]](https://jiawei-yang.github.io/FreeNeRF/)
+336. NeRFshop: Interactive Editing of Neural Radiance Fields [[code]](https://github.com/graphdeco-inria/nerfshop)
+337. I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs [[project]](https://jingsenzhu.github.io/i2-sdf/)
 
