@@ -490,4 +490,4 @@ research/EfficientNeRF)
 338. SHERF: Generalizable Human NeRF from a Single Image [[project]](https://skhu101.github.io/SHERF/)
 339. FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models [[project]](https://jianglongye.com/featurenerf/)
 340. Instruct-NeRF2NeRF [[project]](https://instruct-nerf2nerf.github.io/)
-
+341. StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields [[project]](https://kunhao-liu.github.io/StyleRF/)
