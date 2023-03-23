@@ -488,4 +488,6 @@ research/EfficientNeRF)
 336. NeRFshop: Interactive Editing of Neural Radiance Fields [[code]](https://github.com/graphdeco-inria/nerfshop)
 337. I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs [[project]](https://jingsenzhu.github.io/i2-sdf/)
 338. SHERF: Generalizable Human NeRF from a Single Image [[project]](https://skhu101.github.io/SHERF/)
+339. FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models [[project]](https://jianglongye.com/featurenerf/)
+340. Instruct-NeRF2NeRF [[project]](https://instruct-nerf2nerf.github.io/)
 
