@@ -487,4 +487,5 @@ research/EfficientNeRF)
 335. FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization [[project]](https://jiawei-yang.github.io/FreeNeRF/)
 336. NeRFshop: Interactive Editing of Neural Radiance Fields [[code]](https://github.com/graphdeco-inria/nerfshop)
 337. I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs [[project]](https://jingsenzhu.github.io/i2-sdf/)
+338. SHERF: Generalizable Human NeRF from a Single Image [[project]](https://skhu101.github.io/SHERF/)
 
