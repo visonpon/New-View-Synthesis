@@ -501,3 +501,5 @@ research/EfficientNeRF)
 349. Enhanced Stable View Synthesis [[pdf]](https://arxiv.org/pdf/2303.17094.pdf)
 350. NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation [[project]](https://yoyo000.github.io/NeILF_pp/)
 351. NeRF-Supervised Deep Stereo [[project]](https://nerfstereo.github.io/)
+352. GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models [[project]](https://nvlabs.github.io/genvs/)\
+353.  L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields [[project]](https://rover-xingyu.github.io/L2G-NeRF/)
