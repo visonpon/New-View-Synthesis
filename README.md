@@ -503,3 +503,4 @@ research/EfficientNeRF)
 351. NeRF-Supervised Deep Stereo [[project]](https://nerfstereo.github.io/)
 352. GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models [[project]](https://nvlabs.github.io/genvs/)\
 353.  L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields [[project]](https://rover-xingyu.github.io/L2G-NeRF/)
+354. Instance Neural Radiance Field [[pdf]](https://arxiv.org/pdf/2304.04395.pdf)
