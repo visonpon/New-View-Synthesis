@@ -539,3 +539,4 @@ research/EfficientNeRF)
 379.  ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields [[project]](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)
 380.  JacobiNeRF: NeRF Shaping with Mutual Information Gradient [[project]](https://xxm19.github.io/jnerf/)
 381.  FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models [[code]](https://github.com/BillyXYB/FDNeRF)
+382.  INVE: Interactive Neural Video Editing [[https://gabriel-huang.github.io/inve/]]
