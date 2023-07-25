@@ -541,3 +541,4 @@ research/EfficientNeRF)
 381.  FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models [[code]](https://github.com/BillyXYB/FDNeRF)
 382.  INVE: Interactive Neural Video Editing [[https://gabriel-huang.github.io/inve/]]
 383.  Tri-MipRF [[code]](https://github.com/wbhu/Tri-MipRF)
+384.  aceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields [[https://arxiv.org/pdf/2307.11418.pdf]]
