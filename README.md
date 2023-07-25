@@ -540,3 +540,4 @@ research/EfficientNeRF)
 380.  JacobiNeRF: NeRF Shaping with Mutual Information Gradient [[project]](https://xxm19.github.io/jnerf/)
 381.  FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models [[code]](https://github.com/BillyXYB/FDNeRF)
 382.  INVE: Interactive Neural Video Editing [[https://gabriel-huang.github.io/inve/]]
+383.  Tri-MipRF [[code]](https://github.com/wbhu/Tri-MipRF)
