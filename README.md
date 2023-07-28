@@ -543,4 +543,4 @@ research/EfficientNeRF)
 383.  Tri-MipRF [[code]](https://github.com/wbhu/Tri-MipRF)
 384.  aceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields [[pdf]](https://arxiv.org/pdf/2307.11418.pdf)
 385.  NeRF-Texture: Texture Synthesis with Neural Radiance Fields [[project]](https://yihua7.github.io/NeRF-Texture-web/)
-386.  Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis [[https://snap-research.github.io/R2L/]]
+386.  Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis [[project]](https://snap-research.github.io/R2L/)
