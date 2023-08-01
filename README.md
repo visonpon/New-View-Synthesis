@@ -545,3 +545,5 @@ research/EfficientNeRF)
 385.  NeRF-Texture: Texture Synthesis with Neural Radiance Fields [[project]](https://yihua7.github.io/NeRF-Texture-web/)
 386.  Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis [[project]](https://snap-research.github.io/R2L/)
 387.  Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields [[project]](https://github.com/windingwind/seal-3d/)
+388.  DiVA360: The Dynamic Visual-Audio Dataset for Immersive Neural Fields [[project]](https://diva360.github.io/)
+
