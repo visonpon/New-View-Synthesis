@@ -547,4 +547,5 @@ research/EfficientNeRF)
 387.  Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields [[project]](https://github.com/windingwind/seal-3d/)
 388.  DiVA360: The Dynamic Visual-Audio Dataset for Immersive Neural Fields [[project]](https://diva360.github.io/)
 389.  Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections [[code]](https://github.com/JiaxiongQ/NeuS-HSR)
+390.  NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation [[project]](https://yoyo000.github.io/NeILF_pp/)
 
