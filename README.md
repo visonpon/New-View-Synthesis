@@ -548,4 +548,5 @@ research/EfficientNeRF)
 388.  DiVA360: The Dynamic Visual-Audio Dataset for Immersive Neural Fields [[project]](https://diva360.github.io/)
 389.  Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections [[code]](https://github.com/JiaxiongQ/NeuS-HSR)
 390.  NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation [[project]](https://yoyo000.github.io/NeILF_pp/)
+391.  Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction [[code]](https://github.com/19reborn/NeuS2)
 
