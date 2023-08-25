@@ -551,4 +551,5 @@ research/EfficientNeRF)
 391.  Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction [[code]](https://github.com/19reborn/NeuS2))))
 392.  CamP: Camera Preconditioning for Neural Radiance Fields [[[project]](https://camp-nerf.github.io/)
 393.  Strata-NeRF: Neural Radiance Fields for Stratified Scenes [[project]](https://ankitatiisc.github.io/Strata-NeRF/)
+394.  NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes [[project]](https://zubair-irshad.github.io/projects/neo360.html)
 
