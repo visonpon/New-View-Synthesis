@@ -553,4 +553,6 @@ research/EfficientNeRF)
 393.  Strata-NeRF: Neural Radiance Fields for Stratified Scenes [[project]](https://ankitatiisc.github.io/Strata-NeRF/)
 394.  NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes [[project]](https://zubair-irshad.github.io/projects/neo360.html)
 395.  Removing Objects from Neural Radiance Fields [[code]](https://github.com/nianticlabs/nerf-object-removal)
+396.  CLNeRF: Continual Learning Meets NeRF [[code]](https://github.com/IntelLabs/CLNeRF)
+397.  Canonical Factors for Hybrid Neural Fields [[project]](https://brentyi.github.io/tilted/)
 
