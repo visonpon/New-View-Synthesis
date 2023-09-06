@@ -555,4 +555,5 @@ research/EfficientNeRF)
 395.  Removing Objects from Neural Radiance Fields [[code]](https://github.com/nianticlabs/nerf-object-removal)
 396.  CLNeRF: Continual Learning Meets NeRF [[code]](https://github.com/IntelLabs/CLNeRF)
 397.  Canonical Factors for Hybrid Neural Fields [[project]](https://brentyi.github.io/tilted/)
+398.  ImmersiveNeRF:Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction [[pdf]](https://arxiv.org/pdf/2309.01374.pdf)
 
