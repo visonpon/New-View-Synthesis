@@ -556,4 +556,5 @@ research/EfficientNeRF)
 396.  CLNeRF: Continual Learning Meets NeRF [[code]](https://github.com/IntelLabs/CLNeRF)
 397.  Canonical Factors for Hybrid Neural Fields [[project]](https://brentyi.github.io/tilted/)
 398.  ImmersiveNeRF:Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction [[pdf]](https://arxiv.org/pdf/2309.01374.pdf)
+399.  NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction [[project]](https://3d-front-future.github.io/neuda/)
 
