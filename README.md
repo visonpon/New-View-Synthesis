@@ -558,4 +558,5 @@ research/EfficientNeRF)
 398.  ImmersiveNeRF:Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction [[pdf]](https://arxiv.org/pdf/2309.01374.pdf)
 399.  NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction [[project]](https://3d-front-future.github.io/neuda/)
 400.  Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections [[code]](https://github.com/YifYang993/CR-NeRF-PyTorch)
+401.  Dynamic Mesh-Aware Radiance Fields [[project]](https://mesh-aware-rf.github.io/)
 
