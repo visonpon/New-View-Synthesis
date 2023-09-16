@@ -559,4 +559,5 @@ research/EfficientNeRF)
 399.  NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction [[project]](https://3d-front-future.github.io/neuda/)
 400.  Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections [[code]](https://github.com/YifYang993/CR-NeRF-PyTorch)
 401.  Dynamic Mesh-Aware Radiance Fields [[project]](https://mesh-aware-rf.github.io/)
+402.  BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis [[project]](https://bakedsdf.github.io/)
 
