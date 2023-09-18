@@ -561,4 +561,5 @@ research/EfficientNeRF)
 401.  Dynamic Mesh-Aware Radiance Fields [[project]](https://mesh-aware-rf.github.io/)
 402.  BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis [[project]](https://bakedsdf.github.io/)
 403.  Real-Time Neural Light Field on Mobile Devices [[project]](https://snap-research.github.io/MobileR2L/)
+404.  DE-NeRF: Deformable Neural Radiance Fields using RGB and Event Cameras [[project]](https://qimaqi.github.io/DE-NeRF.github.io/)
 
