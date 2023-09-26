@@ -564,4 +564,5 @@ research/EfficientNeRF)
 404.  DE-NeRF: Deformable Neural Radiance Fields using RGB and Event Cameras [[project]](https://qimaqi.github.io/DE-NeRF.github.io/)
 405.  NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields [[code]](https://github.com/dawning77/nerrf)
 406.  ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field [[project]](https://climatenerf.github.io/)
+407.  NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields [[project]](https://saeejithnair.github.io/NAS-NeRF/)
 
