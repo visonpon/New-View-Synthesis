@@ -565,4 +565,5 @@ research/EfficientNeRF)
 405.  NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields [[code]](https://github.com/dawning77/nerrf)
 406.  ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field [[project]](https://climatenerf.github.io/)
 407.  NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields [[project]](https://saeejithnair.github.io/NAS-NeRF/)
+408.   Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement [[project]](https://me.kiui.moe/nerf2mesh/)
 
