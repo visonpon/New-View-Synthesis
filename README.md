@@ -566,4 +566,5 @@ research/EfficientNeRF)
 406.  ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field [[project]](https://climatenerf.github.io/)
 407.  NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields [[project]](https://saeejithnair.github.io/NAS-NeRF/)
 408.   Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement [[project]](https://me.kiui.moe/nerf2mesh/)
+409.   Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields [[project]](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/mimo-nerf/)
 
