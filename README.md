@@ -569,4 +569,5 @@ research/EfficientNeRF)
 409.   Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields [[project]](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/mimo-nerf/)
 410.   Multi-task View Synthesis with Neural Radiance Fields [[project]](https://zsh2000.github.io/mtvs.github.io/)
 411.   Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes [[code]](https://github.com/zju3dv/im4d#im4d-high-fidelity-and-real-time-novel-view-synthesis-for-dynamic-scenes)
+412.   MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos [[code]](https://github.com/tianfr/MonoNeRF/)
 
