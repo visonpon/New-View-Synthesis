@@ -571,4 +571,5 @@ research/EfficientNeRF)
 411.   Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes [[code]](https://github.com/zju3dv/im4d#im4d-high-fidelity-and-real-time-novel-view-synthesis-for-dynamic-scenes)
 412.   MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos [[code]](https://github.com/tianfr/MonoNeRF/)
 413.   TOSS: High-quality Text-guided Novel View Synthesis from a Single Image [[project]](https://toss3d.github.io/)
+414.   Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [[code]](https://github.com/fudan-zvg/4d-gaussian-splatting)
 
