@@ -573,4 +573,5 @@ research/EfficientNeRF)
 413.   TOSS: High-quality Text-guided Novel View Synthesis from a Single Image [[project]](https://toss3d.github.io/)
 414.   Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [[code]](https://github.com/fudan-zvg/4d-gaussian-splatting)
 415.   SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field [[code]](https://github.com/zju3dv/SINE)
+416.   LightSpeed: Light and Fast Neural Light Fields on Mobile Devices [[project]](https://lightspeed-r2l.github.io/website/)
 
