@@ -575,4 +575,5 @@ research/EfficientNeRF)
 415.   SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field [[code]](https://github.com/zju3dv/SINE)
 416.   LightSpeed: Light and Fast Neural Light Fields on Mobile Devices [[project]](https://lightspeed-r2l.github.io/website/)
 417.   PERF: Panoramic Neural Radiance Field from a Single Panorama [[project]](https://perf-project.github.io/)
+418.   RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency [[code]](https://github.com/vLAR-group/RayDF)
 
