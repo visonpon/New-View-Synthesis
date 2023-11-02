@@ -576,4 +576,5 @@ research/EfficientNeRF)
 416.   LightSpeed: Light and Fast Neural Light Fields on Mobile Devices [[project]](https://lightspeed-r2l.github.io/website/)
 417.   PERF: Panoramic Neural Radiance Field from a Single Panorama [[project]](https://perf-project.github.io/)
 418.   RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency [[code]](https://github.com/vLAR-group/RayDF)
+419.   Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture [[project]](https://dali-jack.github.io/SSR/)
 
