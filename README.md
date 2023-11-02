@@ -577,4 +577,5 @@ research/EfficientNeRF)
 417.   PERF: Panoramic Neural Radiance Field from a Single Panorama [[project]](https://perf-project.github.io/)
 418.   RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency [[code]](https://github.com/vLAR-group/RayDF)
 419.   Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture [[project]](https://dali-jack.github.io/SSR/)
+420.    NeRF Revisited: Fixing Quadrature Instability in Volume Rendering  [[project]](https://pl-nerf.github.io/)
 
