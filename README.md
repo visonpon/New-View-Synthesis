@@ -580,4 +580,5 @@ research/EfficientNeRF)
 420.    NeRF Revisited: Fixing Quadrature Instability in Volume Rendering  [[project]](https://pl-nerf.github.io/)
 421.   Instant-angelo: Build high-fidelity Digital Twin within 20 Minutes [[code]](https://github.com/hugoycj/Instant-angelo)
 422.   ScaNeRF: Scalable Bundle-Adjusting Neural Radiance Fields for Large-Scale Scene Rendering [[video]](https://www.youtube.com/watch?v=ylqZxQS2u6c)
+423.   CamP: Camera Preconditioning for Neural Radiance Fields [[project]](https://camp-nerf.github.io/)
 
