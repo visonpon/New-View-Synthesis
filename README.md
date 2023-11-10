@@ -584,4 +584,5 @@ research/EfficientNeRF)
 424.   MCNeRF: Monte Carlo Rendering and Denoising for Real-Time NeRFs [[project]](https://mcnerf.github.io/)
 425.   VR-NeRF: High-Fidelity Virtualized Walkable Spaces [[project]](https://vr-nerf.github.io/)
 426.   Real-Time Neural Rasterization for Large Scenes [[project]](https://waabi.ai/NeuRas/)
+427.   BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis [[pdf]](https://arxiv.org/pdf/2311.05521.pdf)
 
