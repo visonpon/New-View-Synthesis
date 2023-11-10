@@ -583,4 +583,5 @@ research/EfficientNeRF)
 423.   CamP: Camera Preconditioning for Neural Radiance Fields [[project]](https://camp-nerf.github.io/)
 424.   MCNeRF: Monte Carlo Rendering and Denoising for Real-Time NeRFs [[project]](https://mcnerf.github.io/)
 425.   VR-NeRF: High-Fidelity Virtualized Walkable Spaces [[project]](https://vr-nerf.github.io/)
+426.   Real-Time Neural Rasterization for Large Scenes [[project]](https://waabi.ai/NeuRas/)
 
