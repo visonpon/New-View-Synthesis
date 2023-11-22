@@ -585,4 +585,5 @@ research/EfficientNeRF)
 425.   VR-NeRF: High-Fidelity Virtualized Walkable Spaces [[project]](https://vr-nerf.github.io/)
 426.   Real-Time Neural Rasterization for Large Scenes [[project]](https://waabi.ai/NeuRas/)
 427.   BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis [[pdf]](https://arxiv.org/pdf/2311.05521.pdf)
+428.   SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering [[project]](https://imagine.enpc.fr/~guedona/sugar/)
 
