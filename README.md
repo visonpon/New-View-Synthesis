@@ -587,4 +587,5 @@ research/EfficientNeRF)
 427.   BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis [[pdf]](https://arxiv.org/pdf/2311.05521.pdf)
 428.   SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering [[project]](https://imagine.enpc.fr/~guedona/sugar/)
 429.   Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection [[project]](https://g3956.github.io/)
+430.   Obj-NeRF: Extracting Object NeRFs from Multi-view Images [[project]](https://objnerf.github.io/)
 
