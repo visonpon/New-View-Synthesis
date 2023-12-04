@@ -589,4 +589,6 @@ research/EfficientNeRF)
 429.   Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection [[project]](https://g3956.github.io/)
 430.   Obj-NeRF: Extracting Object NeRFs from Multi-view Images [[project]](https://objnerf.github.io/)
 431.   UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving [[https://kcheng1021.github.io/ucnerf.github.io/]]
+432.   PyNeRF: Pyramidal Neural Radiance Fields [[project]](https://haithemturki.com/pynerf/)
+433.   MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video [[project]](https://hengyiwang.github.io/projects/morpheus)
 
