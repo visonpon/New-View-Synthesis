@@ -593,4 +593,5 @@ research/EfficientNeRF)
 433.   MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video [[project]](https://hengyiwang.github.io/projects/morpheus)
 434.   GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis [[project]](https://shunyuanzheng.github.io/GPS-Gaussian)
 435.   GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians [[project]](https://huliangxiao.github.io/GaussianAvatar)
+436.   ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction [[project]](https://showlab.github.io/ColonNeRF/)
 
