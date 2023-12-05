@@ -591,5 +591,6 @@ research/EfficientNeRF)
 431.   UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving [[https://kcheng1021.github.io/ucnerf.github.io/]]
 432.   PyNeRF: Pyramidal Neural Radiance Fields [[project]](https://haithemturki.com/pynerf/)
 433.   MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video [[project]](https://hengyiwang.github.io/projects/morpheus)
-434.   GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis [[https://shunyuanzheng.github.io/GPS-Gaussian]]
+434.   GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis [[project]](https://shunyuanzheng.github.io/GPS-Gaussian)
+435.   GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians [[project]](https://huliangxiao.github.io/GaussianAvatar)
 
