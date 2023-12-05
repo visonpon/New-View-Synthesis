@@ -594,4 +594,7 @@ research/EfficientNeRF)
 434.   GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis [[project]](https://shunyuanzheng.github.io/GPS-Gaussian)
 435.   GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians [[project]](https://huliangxiao.github.io/GaussianAvatar)
 436.   ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction [[project]](https://showlab.github.io/ColonNeRF/)
+437.   SANeRF-HQ: Segment Anything for NeRF in High Quality [[project]](https://lyclyc52.github.io/SANeRF-HQ/)
+438.   Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training [[project]](https://customnerf.github.io/)
+
 
