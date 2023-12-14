@@ -597,5 +597,6 @@ research/EfficientNeRF)
 437.   SANeRF-HQ: Segment Anything for NeRF in High Quality [[project]](https://lyclyc52.github.io/SANeRF-HQ/)
 438.   Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training [[project]](https://customnerf.github.io/)
 439.   SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration [[project]](https://smerf-3d.github.io/)
+440.   Novel View Synthesis with View-Dependent Effects from a Single Image [[project]](https://kaist-viclab.github.io/monovde-site/)
 
 
