@@ -599,5 +599,6 @@ research/EfficientNeRF)
 439.   SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration [[project]](https://smerf-3d.github.io/)
 440.   Novel View Synthesis with View-Dependent Effects from a Single Image [[project]](https://kaist-viclab.github.io/monovde-site/)
 441.   City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web [[project]](https://ustc3dv.github.io/City-on-Web/)
+442.   Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [[project]](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
 
 
