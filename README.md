@@ -602,5 +602,7 @@ research/EfficientNeRF)
 442.   Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [[project]](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
 443.   NeRFiller: Completing Scenes via Generative 3D Inpainting [[project]](https://ethanweber.me/nerfiller/)
 444.   SIGNeRF:Scene Integrated Generation for Neural Radiance Fields [[project]](https://signerf.jdihlmann.com/)
+445.   FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields [[project]](https://kim-geonu.github.io/FPRF/)
+446.   Fast High Dynamic Range Radiance Fields for Dynamic Scenes [[project]](https://guanjunwu.github.io/HDR-HexPlane/)
 
 
