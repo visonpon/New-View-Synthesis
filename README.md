@@ -605,5 +605,6 @@ research/EfficientNeRF)
 445.   FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields [[project]](https://kim-geonu.github.io/FPRF/)
 446.   Fast High Dynamic Range Radiance Fields for Dynamic Scenes [[project]](https://guanjunwu.github.io/HDR-HexPlane/)
 447.   Group Anything with Radiance Fields [[project]](https://texturedreamer.github.io/)
+448.   Geometry Transfer for Stylizing Radiance Fields  [[project]](https://hyblue.github.io/geo-srf/)
 
 
