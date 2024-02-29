@@ -608,4 +608,5 @@ research/EfficientNeRF)
 448.   Geometry Transfer for Stylizing Radiance Fields  [[project]](https://hyblue.github.io/geo-srf/)
 449.   VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality [[project]](https://yingjiang96.github.io/VR-GS/?ref=aiartweekly)
 450.   Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis [[project]](https://binary-opacity-grid.github.io/)
+451.   Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction [[project]](https://lakonik.github.io/ssdnerf/)
 
