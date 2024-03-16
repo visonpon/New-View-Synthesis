@@ -610,4 +610,5 @@ research/EfficientNeRF)
 450.   Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis [[project]](https://binary-opacity-grid.github.io/)
 451.   Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction [[project]](https://lakonik.github.io/ssdnerf/)
 452.   3DFIRES Few Image 3D REconstruction for Scenes with Hidden Surfaces [[project]](https://jinlinyi.github.io/3DFIRES/)
+453.   Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis [[pdf]](https://arxiv.org/pdf/2403.06505.pdf)
 
