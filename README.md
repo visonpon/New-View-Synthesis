@@ -609,4 +609,5 @@ research/EfficientNeRF)
 449.   VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality [[project]](https://yingjiang96.github.io/VR-GS/?ref=aiartweekly)
 450.   Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis [[project]](https://binary-opacity-grid.github.io/)
 451.   Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction [[project]](https://lakonik.github.io/ssdnerf/)
+452.   3DFIRES Few Image 3D REconstruction for Scenes with Hidden Surfaces [[project]](https://jinlinyi.github.io/3DFIRES/)
 
