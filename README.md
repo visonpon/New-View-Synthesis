@@ -613,4 +613,5 @@ research/EfficientNeRF)
 453.   Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis [[pdf]](https://arxiv.org/pdf/2403.06505.pdf)
 454.   S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes [[project]](https://xingyi-li.github.io/s-dyrf/)
 455.   Connecting NeRFs, Images, and Text [[project]](https://cvlab-unibo.github.io/clip2nerf/)
+456.   G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images [[project]](https://llrtt.github.io/G-NeRF-Demo/)
 
