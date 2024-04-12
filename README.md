@@ -612,4 +612,5 @@ research/EfficientNeRF)
 452.   3DFIRES Few Image 3D REconstruction for Scenes with Hidden Surfaces [[project]](https://jinlinyi.github.io/3DFIRES/)
 453.   Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis [[pdf]](https://arxiv.org/pdf/2403.06505.pdf)
 454.   S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes [[project]](https://xingyi-li.github.io/s-dyrf/)
+455.   Connecting NeRFs, Images, and Text [[project]](https://cvlab-unibo.github.io/clip2nerf/)
 
