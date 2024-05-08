@@ -614,4 +614,5 @@ research/EfficientNeRF)
 454.   S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes [[project]](https://xingyi-li.github.io/s-dyrf/)
 455.   Connecting NeRFs, Images, and Text [[project]](https://cvlab-unibo.github.io/clip2nerf/)
 456.   G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images [[project]](https://llrtt.github.io/G-NeRF-Demo/)
+457.   Tactile-Augmented Radiance Fields [[project]](https://dou-yiming.github.io/TaRF/)
 
