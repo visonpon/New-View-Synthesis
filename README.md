@@ -616,4 +616,5 @@ research/EfficientNeRF)
 456.   G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images [[project]](https://llrtt.github.io/G-NeRF-Demo/)
 457.   Tactile-Augmented Radiance Fields [[project]](https://dou-yiming.github.io/TaRF/)
 458.   Toon3D: Seeing Cartoons from a New Perspective [[project]](https://toon3d.studio/)
+459.   HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting [[pdf]](https://arxiv.org/pdf/2405.15125)
 
