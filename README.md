@@ -619,4 +619,5 @@ research/EfficientNeRF)
 459.   HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting [[pdf]](https://arxiv.org/pdf/2405.15125)
 460.   Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh [[project]](https://gaoxiangjun.github.io/mani_gs/)
 461.   NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer [[code]](https://github.com/zhu-zhiyu/nvs_solver)
+462.   GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling [[project]](https://gaussiancube.github.io/)
 
