@@ -620,4 +620,5 @@ research/EfficientNeRF)
 460.   Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh [[project]](https://gaoxiangjun.github.io/mani_gs/)
 461.   NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer [[code]](https://github.com/zhu-zhiyu/nvs_solver)
 462.   GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling [[project]](https://gaussiancube.github.io/)
+463.   NeRF-Insert: Local 3D editing with multimodal control signals [[project]](https://nerf-insert.github.io/)
 
