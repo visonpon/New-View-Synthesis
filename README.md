@@ -624,4 +624,5 @@ research/EfficientNeRF)
 464.   Dynamic 3D Gaussian Fields for Urban Areas [[project]](https://tobiasfshr.github.io/pub/4dgf/)
 465.   Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image [[project]](https://www.robots.ox.ac.uk/~vgg/research/flash3d/)
 466.   HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces [[project]](https://haithemturki.com/hybrid-nerf/)
+467.   GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing [[project]](https://gaussctrl.active.vision/)
 
